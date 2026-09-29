@@ -4,9 +4,9 @@
    "id": "attaleiates",
    "datei": "attaleiates",
    "side": "byzantium",
-   "kurz": "Attaleiates: the campaign of 1071",
+   "kurz": "Attaleiates: the campaign and the civil war (1071–1072)",
    "zk": "Att.",
-   "warum": "The only eyewitness account from either side, in Greek with a working translation: the divided army, the omens a judge in the emperor's tent noted down, the night of arrows round the camp, the peace refused, the turned standard and the rumour spread by 'a cousin of the emperor's stepson', the emperor taken fighting on foot, eight days at the sultan's table, and the sentence that turns the history to the civil war."
+   "warum": "The only eyewitness account from either side, in Greek with a working translation. The campaign: the divided army, the omens a judge in the emperor's tent noted down, the night of arrows, the peace refused, the turned standard and the rumour spread by 'a cousin of the emperor's stepson', the emperor taken on foot, eight days at the sultan's table. Then what the historian calls the harder story: the coup in Constantinople, the civil war, Alyates and Khatchatour, the terms at Adana, the order from Michael VII, the blinding, and death on Prote."
   },
   {
    "id": "ibnalathir",
@@ -26,13 +26,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "attaleiates2",
-   "side": "byzantium",
-   "kurz": "Attaleiates: the civil war and the blinding (1071–1072)",
-   "warum": "The continuation of the same history: the Doukas coup in Constantinople, Romanos refused, beaten at Dokeia and in Cilicia, surrendering on sworn guarantees, and blinded. For Attaleiates this, not the battle, is the calamity.",
-   "quelle": "Attaleiates, Historia, ed. Bekker (Bonn 1853), pp. 168–180; same scans as the shipped module."
-  },
   {
    "id": "attaleiates0",
    "side": "byzantium",

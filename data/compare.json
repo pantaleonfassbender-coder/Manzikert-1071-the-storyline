@@ -145,6 +145,37 @@
      ]
     }
    ]
+  },
+  {
+   "id": "blinding",
+   "titel": "The blinding",
+   "frage": "Who did it, on whose order, and after what promise?",
+   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the blinding done three times over at Kotyaion; Matthew of Edessa has Romanos put on the monk's habit himself to save his life, and the Romans 'crucify God a second time'; Ibn al-Athīr ends with the deposed emperor sending the sultan what money he had, and says nothing of the blinding. Both Christian writers lay the deed, in different figures, on the Jews: a commonplace carried here as printed and named as such.",
+   "voices": [
+    {
+     "text": "attaleiates",
+     "sec": "blinding",
+     "n": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "matthew",
+     "sec": "battle",
+     "n": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "ibnalathir",
+     "sec": "battle",
+     "n": [
+      10
+     ]
+    }
+   ]
   }
  ]
 }

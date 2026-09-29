@@ -6,14 +6,14 @@ Its thesis is the eyewitness's own: the battle was lost in an evening, but the e
 
 Stage 1 (September 2026) carries three modules:
 
-- **Attaleiates: the campaign of 1071** — Michael Attaleiates, a judge who rode with the army, *Historia*, ed. Bekker (Bonn 1853), pp. 148–168: the march from Theodosiopolis, the divided army, the retaking of Manzikert, the battle, the captivity and release. Greek, set from two independent OCRs and read against the page images line by line, with a working English translation.
+- **Attaleiates: the campaign and the civil war** — Michael Attaleiates, a judge who rode with the army, *Historia*, ed. Bekker (Bonn 1853), pp. 148–180: the march from Theodosiopolis, the divided army, the retaking of Manzikert, the battle, the captivity and release; then the coup in Constantinople, the civil war, the terms at Adana, the blinding and Romanos' death on Prote. Greek, set from two independent OCRs and read against the page images line by line, with a working English translation.
 
 - **Ibn al-Athīr: the year 463** — *al-Kāmil fī l-taʾrīkh*, ed. Tornberg, vol. X (Leiden 1864), pp. 42–46: Aleppo and the sultan's war for the caliph, then the king of the Rūm at Malazkird, the capture, the ransom and the fifty years' truce. Arabic, transcribed by eye from the page images, with a working translation.
 - **Matthew of Edessa: the Armenian chronicle** — chapters XCVII–CIV (1067–1072) in Dulaurier's French (Paris 1858), pp. 159–172, corrected against the page images, with a working English translation: the empress and Romanos, the sultan in Armenia, the sack of Sebasteia, the battle, the blinding, the death of Alp Arslan.
 
-A **Compare** page sets the three voices side by side on five moments (the meeting of sultan and captive, the peace refused, the divided army, the treason, the treaty and the coup).
+A **Compare** page sets the three voices side by side on six moments (the meeting of sultan and captive, the peace refused, the divided army, the treason, the treaty and the coup, the blinding).
 
-Planned modules and their sources (Psellos, Bryennios, Skylitzes Continuatus and Zonaras, Aristakes, Michael the Syrian, Gibbon, and the rest of Attaleiates) are listed on the Texts page (`data/modules.json`).
+Planned modules and their sources (Attaleiates on the departure of 1071, Psellos, Bryennios, Skylitzes Continuatus and Zonaras, Aristakes, Michael the Syrian, Gibbon) are listed on the Texts page (`data/modules.json`).
 
 ## Building the data
 

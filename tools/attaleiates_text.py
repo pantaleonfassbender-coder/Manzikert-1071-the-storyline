@@ -131,7 +131,7 @@ CAPTIVITY = [
     {"pg": "167.18–168.2", "titel": "Hard to tell what followed",
      "orig": "Μέχρι μὲν οὖν τούτων ἀσύγχυτος ἡμῖν ὁ λόγος καὶ οἷον ἀπερικτύπητος καὶ ὁμαλώτερον βαίνων, κἂν εἰ καὶ προσάντεις εἶχε καὶ οἰκτρὰς τὰς ἐπεξηγήσεις. τὸ δ᾽ ἀπὸ τοῦδε τίς ἂν κατὰ μέρος τὸ πλῆθος τῶν ἐπισυμβάντων χαλεπῶν διηγήσαιτο; οὐ πρόσαντες ἡμῖν τὸ προκείμενον μόνον, ἀλλὰ καὶ λίαν ἀπρόσβατον διὰ τὴν τῶν γενομένων ἀπηνῆ σκυθρωπότητα.",
      "en": "Up to this point my account has run unconfused and, as it were, without clamour, going on a more even road, even if its explanations were uphill and pitiful. But from here on, who could tell in detail the host of hardships that followed? What lies before us is not only uphill but quite impassable, for the harsh gloom of what happened.",
-     "note": "The hinge of the history. What follows in Attaleiates is the Doukas coup in Constantinople, the civil war, and the blinding of Romanos in 1072: for the historian, the worse calamity."},
+     "note": "The hinge of the history. What follows in Attaleiates is the Doukas coup in Constantinople (Att. Coup [1]), the civil war, and the blinding of Romanos in 1072: for the historian, the worse calamity."},
 ]
 
 SECTIONS = [

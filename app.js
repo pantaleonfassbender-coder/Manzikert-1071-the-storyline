@@ -67,7 +67,7 @@ function overview() {
   <h2>The questions it asks</h2>
   <div class="grid g2">
     <div class="panel"><h3>Was the battle the catastrophe?</h3>
-      <p>The eyewitness says the empire collapsed in an instant, and then that the harder story is what came after: "from here on, who could tell the host of hardships that followed?" <a href="#/text/attaleiates/captivity/8">Att. Capt. [8]</a> The emperor came home with a treaty; the civil war left the frontier without anyone to hold it.</p></div>
+      <p>The eyewitness says the empire collapsed in an instant, and then that the harder story is what came after: "from here on, who could tell the host of hardships that followed?" <a href="#/text/attaleiates/captivity/8">Att. Capt. [8]</a> The emperor came home with a treaty; the civil war left the frontier without anyone to hold it, and ended with the historian turning to address the emperor who ordered the blinding: "What do you say, emperor?" (<a href="#/text/attaleiates/blinding/3">Att. Blind. [3]</a>)</p></div>
     <div class="panel"><h3>Who broke the army?</h3>
       <p>Half of it never reached the battle; its commander, hearing of the sultan, marched away (<a href="#/text/attaleiates/battle/7">Att. Battle [7]</a>). The rear broke at a rumour that "most people" laid at the door of a Doukas (<a href="#/text/attaleiates/battle/12">Att. Battle [12]</a>). Attaleiates, writing for the Doukai's enemy, names no one.</p></div>
     <div class="panel"><h3>Who tells it?</h3>
