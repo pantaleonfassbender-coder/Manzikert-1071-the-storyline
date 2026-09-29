@@ -72,6 +72,8 @@ function overview() {
       <p>Half of it never reached the battle; its commander, hearing of the sultan, marched away (<a href="#/text/attaleiates/battle/7">Att. Battle [7]</a>). The rear broke at a rumour that "most people" laid at the door of a Doukas (<a href="#/text/attaleiates/battle/12">Att. Battle [12]</a>). Attaleiates, writing for the Doukai's enemy, names no one.</p></div>
     <div class="panel"><h3>Who tells it?</h3>
       <p>A Byzantine judge in the emperor's tent is the first voice. The Arabic historians of the Seljuk court, the Armenian chroniclers of the frontier, and the palace that deposed Romanos are next, each on the Texts page with its source. The legend of the emperor as footstool belongs to fifteenth-century France (<a href="#/plates">Plates</a>).</p></div>
+    <div class="panel"><h3>Can the story be played?</h3>
+      <p>The companion game <a href="https://manzikert-1071-the-game.netlify.app/" target="_blank" rel="noopener"><em>The Turned Standard</em></a> is built on these texts: as Romanos you hold a mercenary army and a hostile court together, march on Manzikert card by card after Attaleiates, and its accounting separates what the field decided from what the City decided. Every card links back to its passage here.</p></div>
   </div>`;
 }
 
