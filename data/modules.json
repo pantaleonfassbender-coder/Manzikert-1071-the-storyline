@@ -1,0 +1,84 @@
+{
+ "shipped": [
+  {
+   "id": "attaleiates",
+   "datei": "attaleiates",
+   "side": "byzantium",
+   "kurz": "Attaleiates: the campaign of 1071",
+   "zk": "Att.",
+   "warum": "The only eyewitness account from either side, in Greek with a working translation: the divided army, the omens a judge in the emperor's tent noted down, the night of arrows round the camp, the peace refused, the turned standard and the rumour spread by 'a cousin of the emperor's stepson', the emperor taken fighting on foot, eight days at the sultan's table, and the sentence that turns the history to the civil war."
+  }
+ ],
+ "planned": [
+  {
+   "id": "attaleiates2",
+   "side": "byzantium",
+   "kurz": "Attaleiates: the civil war and the blinding (1071–1072)",
+   "warum": "The continuation of the same history: the Doukas coup in Constantinople, Romanos refused, beaten at Dokeia and in Cilicia, surrendering on sworn guarantees, and blinded. For Attaleiates this, not the battle, is the calamity.",
+   "quelle": "Attaleiates, Historia, ed. Bekker (Bonn 1853), pp. 168–180; same scans as the shipped module."
+  },
+  {
+   "id": "attaleiates0",
+   "side": "byzantium",
+   "kurz": "Attaleiates: the omens of the march (1071)",
+   "warum": "The departure from Constantinople in March 1071: the imperial tent that collapses at Helenopolis ('the pitiful city'), the fire that burns the emperor's horses, the quarrel with the German guard. The first half of the historian's case that the defeat was foretold.",
+   "quelle": "Attaleiates, Historia, ed. Bekker (Bonn 1853), pp. 142–148."
+  },
+  {
+   "id": "ibnalathir",
+   "side": "seljuk",
+   "kurz": "Ibn al-Athīr: the sultan and the king of the Rūm (1071)",
+   "warum": "The fullest Arabic account in a public-domain edition: the sultan's prayer before the battle, the captive king brought before him, the question and the answer, the ransom and the tribute. The other side of every scene in Attaleiates' third section.",
+   "quelle": "Ibn al-Athīr, al-Kāmil fī l-taʾrīkh, ed. C. J. Tornberg, vol. X (Leiden 1864), year 463 AH. Internet Archive (kamil-Tornberg and Google scans). Arabic, transcribed by eye, with a working translation."
+  },
+  {
+   "id": "matthew",
+   "side": "armenian",
+   "kurz": "Matthew of Edessa: the Armenian chronicle (1071–1072)",
+   "warum": "An Armenian monk of Edessa on Romanos' campaigns, the battle, the release and the blinding, with his own view of Byzantine rule in Armenia. The Armenians fought in the emperor's army and were its first victims on the frontier.",
+   "quelle": "Chronique de Matthieu d'Édesse, tr. Édouard Dulaurier (Paris 1858), ch. on the years 520–521 of the Armenian era. Internet Archive chroniquedematt00mattgoog. French, with a working English translation."
+  },
+  {
+   "id": "psellos",
+   "side": "byzantium",
+   "kurz": "Psellos: the court's version (1068–1072)",
+   "warum": "The philosopher who served the Doukai and tutored Michael VII, on Romanos' rise, his campaigns and his fall; he admits he wrote the letter that went with the blinding. The view from the palace that deposed him.",
+   "quelle": "Michael Psellos, Chronographia, Romanos IV, ed. K. N. Sathas (London 1899). Greek, with a working translation."
+  },
+  {
+   "id": "bryennios",
+   "side": "byzantium",
+   "kurz": "Bryennios: the family history (1071)",
+   "warum": "Written two generations later by a Bryennios married into the Komnenoi, with the Doukai as in-laws: the battle order, the rearguard of Andronikos Doukas, and a quieter version of the treason.",
+   "quelle": "Nicephori Bryennii Commentarii, ed. A. Meineke, Corpus Scriptorum Historiae Byzantinae (Bonn 1836), Book I. Greek with Latin; working English translation."
+  },
+  {
+   "id": "skylitzes",
+   "side": "byzantium",
+   "kurz": "The continuation of Skylitzes and Zonaras (1071)",
+   "warum": "The two later Byzantine summaries on which most retellings rest, largely from Attaleiates; the site sets them beside him to show what the tradition kept and what it dropped.",
+   "quelle": "Scylitzes Continuatus in Georgius Cedrenus, ed. Bekker, vol. II (Bonn 1839); Zonaras, Epitome, ed. Büttner-Wobst, vol. III (Bonn 1897)."
+  },
+  {
+   "id": "aristakes",
+   "side": "armenian",
+   "kurz": "Aristakes of Lastivert: the ruin of Armenia (to 1071)",
+   "warum": "An Armenian lament for the sack of Arzen, Ani and the cities of the frontier in the generation before the battle, closing with Manzikert: the long war the battle ended.",
+   "quelle": "Histoire d'Arménie par le vartabed Arisdaguès de Lasdiverd, tr. Évariste Prud'homme (Paris 1864). Internet Archive. French, with a working English translation."
+  },
+  {
+   "id": "michaelsyr",
+   "side": "syriac",
+   "kurz": "Michael the Syrian: the view from the Jacobite church",
+   "warum": "The twelfth-century patriarch of Antioch on Romanos, the battle and its meaning for the Christians of the East under Byzantine and then Turkish rule.",
+   "quelle": "Chronique de Michel le Syrien, tr. J.-B. Chabot, vol. III (Paris 1905). French, with a working English translation."
+  },
+  {
+   "id": "gibbon",
+   "side": "reception",
+   "kurz": "Gibbon, chapter 57 (1788)",
+   "warum": "The Enlightenment retelling that made Alp Arslan's magnanimity and Romanos' fall a set piece for European readers, as Chesterton's poem did for Lepanto.",
+   "quelle": "Edward Gibbon, The History of the Decline and Fall of the Roman Empire, ch. LVII (London 1788). Project Gutenberg."
+  }
+ ]
+}

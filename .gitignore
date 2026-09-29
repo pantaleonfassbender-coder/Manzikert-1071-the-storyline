@@ -1,0 +1,4 @@
+# downloaded OCR, page images and plate originals (the build scripts and README say where from)
+tools/src/
+__pycache__/
+.claude/

@@ -1,0 +1,47 @@
+{
+ "credit": "Plates: three miniatures from fifteenth-century French manuscripts of Boccaccio's De casibus virorum illustrium, Bibliothèque nationale de France (Français 226, 232 and 236), via Gallica and Wikimedia Commons; a portrait from the fifteenth-century Zonaras manuscript in Modena (Mutinensis gr. 122); Gustave Schlumberger's drawing of a seal of Romanos IV (Revue des Études Grecques 13, 1900); and Fernand Grenard's photograph of Malazgirt after the earthquake of 30 April 1903 (BnF, Gallica). All public domain; resized for this site.",
+ "plates": [
+  {
+   "id": "fr236",
+   "titel": "Marriage, battle, and the sultan's table",
+   "side": "reception",
+   "caption": "Three scenes in one frame: Romanos marries the empress Eudokia (1 January 1068); the emperor and the sultan meet in battle; and the captive emperor lies under the sultan's table. A French Boccaccio of the fifteenth century, where Romanos is one of the illustrious men brought down by Fortune.",
+   "source": "Boccaccio, Des cas des nobles hommes et femmes, BnF Français 236, f. 203."
+  },
+  {
+   "id": "fr226",
+   "titel": "The sultan mounts from the emperor's back",
+   "side": "reception",
+   "caption": "The battle above; below, the sultan steps on the kneeling emperor to mount his horse. The scene belongs to the Western legend of Fortune; the eyewitness Attaleiates has the sultan rise and embrace his captive (Att. Capt. [2]).",
+   "source": "Boccaccio, De casibus, workshop of the Rohan Master, BnF Français 226, f. 265."
+  },
+  {
+   "id": "fr232",
+   "titel": "The emperor as footstool",
+   "side": "reception",
+   "caption": "The sultan enthroned with his foot on the fallen emperor. The footstool belongs to the late-medieval West's picture of Fortune's wheel; it is not what the eyewitness saw.",
+   "source": "Boccaccio, De casibus, BnF Français 232, f. 323."
+  },
+  {
+   "id": "seal",
+   "titel": "The seal of the three Doukas sons",
+   "side": "byzantium",
+   "caption": "A lead seal of Romanos IV: on one side Christ between Romanos and the empress Eudokia; on the other her three sons by Constantine X Doukas, among them Michael VII. The co-emperors on this seal were the family that deposed and blinded him.",
+   "source": "Drawing by Gustave Schlumberger, 'Sceaux byzantins inédits', Revue des Études Grecques 13 (1900)."
+  },
+  {
+   "id": "mutinensis",
+   "titel": "Romanos IV Diogenes",
+   "side": "byzantium",
+   "caption": "A portrait of the emperor in the series of rulers in a fifteenth-century manuscript of Zonaras' chronicle. No likeness of Alp Arslan survives from his lifetime.",
+   "source": "Modena, Biblioteca Estense, Mutinensis gr. 122, f. 270r."
+  },
+  {
+   "id": "ruins",
+   "titel": "Malazgirt, 1903",
+   "side": "reception",
+   "caption": "The fortress of Manzikert (Malazgirt) above the village, photographed by the French traveller Fernand Grenard after the earthquake of 30 April 1903.",
+   "source": "Fernand Grenard, photograph, BnF, Société de Géographie collection (Gallica)."
+  }
+ ]
+}
