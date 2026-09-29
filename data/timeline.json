@@ -1,26 +1,173 @@
 {
  "lede": "From the Turkish raids on Byzantine Armenia to the Komnenian recovery, and then the long afterlife. The entries for 1071 follow Attaleiates and link into his text; the other dates are those of the modern accounts, and say so where the sources differ.",
  "stations": [
-  {"d": "1049–1064", "side": "armenian", "titel": "The frontier breaks", "text": "Turkish raids reach Byzantine Armenia: Artze, the great unwalled market town near Theodosiopolis, is sacked in 1049; Alp Arslan takes Ani, the old Armenian royal city, in 1064. Theodosiopolis is walled against 'the Turks' unexpected neighbourhood'.", "cite": "#/text/attaleiates/march/1", "citeLabel": "Att. March [1]"},
-  {"d": "May 1067", "side": "byzantium", "titel": "Constantine X Doukas dies", "text": "The empress Eudokia Makrembolitissa becomes regent for her sons, the eldest Michael, under an oath not to remarry. The Caesar John Doukas, the late emperor's brother, and the philosopher Psellos guard the family's interest.", "plate": "seal"},
-  {"d": "1 January 1068", "side": "byzantium", "titel": "Romanos IV Diogenes crowned", "text": "Eudokia breaks her oath and marries Romanos Diogenes, a Cappadocian general lately condemned for conspiracy. He becomes senior emperor beside her three sons: a soldier on the throne of a family that did not choose him.", "plate": "fr236"},
-  {"d": "1068–1069", "side": "byzantium", "titel": "The first two campaigns", "text": "Romanos campaigns in Syria (Hierapolis taken, 1068) and in Cappadocia and on the Euphrates (1069), with a mercenary army; Turkish raiders slip past him and sack Iconium."},
-  {"d": "1070", "side": "seljuk", "titel": "A year at home, and Manzikert lost", "text": "Romanos stays in the capital; Manuel Komnenos is defeated and taken near Sebasteia, where the army will pass the dead the next summer. The sultan takes Manzikert, 'the previous year', as Attaleiates says, and garrisons it with Turks and Daylamites.", "cite": "#/text/attaleiates/march/2", "citeLabel": "Att. March [2]"},
-  {"d": "Spring 1071", "side": "seljuk", "titel": "Alp Arslan at Aleppo", "text": "The sultan's aim is Fatimid Egypt: he besieges Edessa and then Aleppo. Hearing that the emperor is marching east, he turns north with the troops he has to hand."},
-  {"d": "March–April 1071", "side": "byzantium", "titel": "The army leaves; Bari falls", "text": "Romanos crosses to Asia with the largest army of his reign. In Italy Bari, the last Byzantine city, falls to Robert Guiscard in April: the empire loses its western foothold in the same year."},
-  {"d": "Summer 1071", "side": "byzantium", "titel": "Theodosiopolis: the army divided", "text": "Two months' food for a march through a country 'trampled by the nations'. The Uzes and Roussel's Franks are sent ahead to Khliat, then the larger and better part of the army under Joseph Trachaneiotes; the emperor goes on to Manzikert.", "cite": "#/text/attaleiates/march/3", "citeLabel": "Att. March [3]"},
-  {"d": "August 1071", "side": "byzantium", "titel": "Manzikert retaken", "text": "The Armenian infantry storm the outer wall; the Turkish garrison surrenders and comes out armed before an unarmoured emperor. A soldier who stole a donkey loses his nose before the icon of the Virgin: 'then, then indeed, I foresaw a great retribution'.", "cite": "#/text/attaleiates/march/7", "citeLabel": "Att. March [7]"},
-  {"d": "August 1071", "side": "seljuk", "titel": "The sultan arrives", "text": "Foragers attacked, Bryennios repulsed, Basilakes taken, a night of arrows round a camp without moon, the river cut off, an Uze contingent under Tamis gone over. Trachaneiotes, hearing of the sultan, retreats into Roman territory with half the army.", "cite": "#/text/attaleiates/battle/7", "citeLabel": "Att. Battle [7]"},
-  {"d": "26 August 1071", "side": "byzantium", "titel": "The battle", "text": "The sultan's envoys offer peace and are refused. Romanos advances all day against a retreating enemy; at evening he turns the imperial standard for the camp; the rear breaks, 'as most people assert' at the word of a cousin of the emperor's stepson; the emperor fights on foot until he is taken.", "cite": "#/text/attaleiates/battle/12", "citeLabel": "Att. Battle [12]", "plate": "fr226"},
-  {"d": "Late August 1071", "side": "seljuk", "titel": "Eight days as the sultan's guest", "text": "'Do not be afraid, emperor.' The question ('What would you have done?') and the answer; a treaty, a marriage alliance, and release. The Arabic histories name a ransom and a yearly tribute; Attaleiates only 'a generous gift'.", "cite": "#/text/attaleiates/captivity/4", "citeLabel": "Att. Capt. [4]", "plate": "fr232"},
-  {"d": "Autumn 1071", "side": "byzantium", "titel": "The Doukas coup", "text": "In Constantinople the Caesar John Doukas and his sons have Michael VII proclaimed sole emperor and Eudokia sent to a convent; the provinces are ordered not to receive Romanos as emperor. Attaleiates hears the news at Trebizond and holds it 'past belief'.", "cite": "#/text/attaleiates/captivity/8", "citeLabel": "Att. Capt. [8]"},
-  {"d": "1071–1072", "side": "byzantium", "titel": "Civil war, and the blinding", "text": "Romanos is beaten at Dokeia and in Cilicia by the Doukai, among them Andronikos, and surrenders on the sworn guarantee of bishops. He is blinded in the summer of 1072 and dies of the wounds on the island of Prote. The treaty he made with the sultan is never carried out."},
-  {"d": "Late 1072", "side": "seljuk", "titel": "Alp Arslan killed", "text": "The sultan is stabbed by a captive commander during a campaign across the Oxus. His treaty with Romanos died with the deposed emperor; the Turkmen move into Anatolia without either."},
-  {"d": "1073–1081", "side": "byzantium", "titel": "The frontier dissolves", "text": "Roussel de Bailleul, the Frankish captain of 1071, revolts and is fought with Turkish help; Byzantine pretenders hire Turkish troops and garrison cities with them. By 1081 a Seljuk prince holds Nicaea, and Alexios Komnenos takes the throne."},
-  {"d": "c. 1079–1080", "side": "byzantium", "titel": "Attaleiates writes", "text": "The judge who rode with the army writes his history for Nikephoros III Botaneiates, who had risen against the Doukai. It is the only eyewitness account of the battle from either side.", "cite": "#/text/attaleiates/battle/8", "citeLabel": "Att. Battle [8]"},
-  {"d": "15th century", "side": "reception", "titel": "Fortune's wheel", "text": "French manuscripts of Boccaccio's Fall of Illustrious Men show the emperor as the sultan's footstool or mounting block: the Western legend, far from what the eyewitness saw.", "plate": "fr236"},
-  {"d": "1788", "side": "reception", "titel": "Gibbon", "text": "Chapter 57 of the Decline and Fall makes Alp Arslan's clemency and Romanos' fall a set piece of the European canon."},
-  {"d": "1903", "side": "reception", "titel": "The fortress after the earthquake", "text": "Fernand Grenard photographs the ruins of the fortress of Malazgirt above the village after the earthquake of 30 April.", "plate": "ruins"},
-  {"d": "Today", "side": "reception", "titel": "26 August", "text": "In modern Turkey the date is commemorated at Malazgirt each year as the opening of Anatolia to the Turks; in Byzantine history it has long served as the beginning of decline. The eyewitness thought the civil war that followed was the worse calamity."}
+  {
+   "d": "1049–1064",
+   "side": "armenian",
+   "titel": "The frontier breaks",
+   "text": "Turkish raids reach Byzantine Armenia: Artze, the great unwalled market town near Theodosiopolis, is sacked in 1049; Alp Arslan takes Ani, the old Armenian royal city, in 1064. Theodosiopolis is walled against 'the Turks' unexpected neighbourhood'.",
+   "cite": "#/text/attaleiates/march/1",
+   "citeLabel": "Att. March [1]"
+  },
+  {
+   "d": "May 1067",
+   "side": "byzantium",
+   "titel": "Constantine X Doukas dies",
+   "text": "The empress Eudokia Makrembolitissa becomes regent for her sons, the eldest Michael, under an oath not to remarry. The Caesar John Doukas, the late emperor's brother, and the philosopher Psellos guard the family's interest.",
+   "plate": "seal"
+  },
+  {
+   "d": "1 January 1068",
+   "side": "byzantium",
+   "titel": "Romanos IV Diogenes crowned",
+   "text": "Eudokia breaks her oath and marries Romanos Diogenes, a Cappadocian general lately condemned for conspiracy. He becomes senior emperor beside her three sons: a soldier on the throne of a family that did not choose him.",
+   "plate": "fr236",
+   "cite": "#/text/matthew/romanos/2",
+   "citeLabel": "Matt. Romanos [2]"
+  },
+  {
+   "d": "1068–1069",
+   "side": "byzantium",
+   "titel": "The first two campaigns",
+   "text": "Romanos campaigns in Syria (Hierapolis taken, 1068) and in Cappadocia and on the Euphrates (1069), with a mercenary army; Turkish raiders slip past him and sack Iconium.",
+   "cite": "#/text/matthew/romanos/3",
+   "citeLabel": "Matt. Romanos [3]"
+  },
+  {
+   "d": "1070",
+   "side": "seljuk",
+   "titel": "A year at home, and Manzikert lost",
+   "text": "Romanos stays in the capital; Manuel Komnenos is defeated and taken near Sebasteia, where the army will pass the dead the next summer. The sultan takes Manzikert, 'the previous year', as Attaleiates says, and garrisons it with Turks and Daylamites. Matthew of Edessa has the town taken in a day and its people killed.",
+   "cite": "#/text/matthew/sultan/2",
+   "citeLabel": "Matt. Sultan [2]"
+  },
+  {
+   "d": "Spring 1071",
+   "side": "seljuk",
+   "titel": "Alp Arslan at Aleppo",
+   "text": "The sultan's war is for the Abbasid caliph against Fatimid Egypt: Aleppo changes its Friday sermon to Baghdad, and he besieges it anyway until its lord comes out by night with his mother. Before that he spent fifty days before Edessa in vain. Hearing that the emperor is marching east, he turns north with the troops he has to hand.",
+   "cite": "#/text/ibnalathir/aleppo/2",
+   "citeLabel": "IA Aleppo [2]"
+  },
+  {
+   "d": "March–April 1071",
+   "side": "byzantium",
+   "titel": "The army leaves; Bari falls",
+   "text": "Romanos crosses to Asia with the largest army of his reign. In Italy Bari, the last Byzantine city, falls to Robert Guiscard in April: the empire loses its western foothold in the same year."
+  },
+  {
+   "d": "Summer 1071",
+   "side": "armenian",
+   "titel": "Sebasteia sacked",
+   "text": "On the march east the emperor lets his soldiers sack Sebasteia on the word of accusers, drives off the Armenian princes Adom and Abusahl, and swears to destroy the Armenian faith on his return; the monks pray that he should die like Julian. The Byzantine eyewitness does not mention it.",
+   "cite": "#/text/matthew/battle/1",
+   "citeLabel": "Matt. Battle [1]"
+  },
+  {
+   "d": "Summer 1071",
+   "side": "byzantium",
+   "titel": "Theodosiopolis: the army divided",
+   "text": "Two months' food for a march through a country 'trampled by the nations'. The Uzes and Roussel's Franks are sent ahead to Khliat, then the larger and better part of the army under Joseph Trachaneiotes; the emperor goes on to Manzikert.",
+   "cite": "#/text/attaleiates/march/3",
+   "citeLabel": "Att. March [3]"
+  },
+  {
+   "d": "August 1071",
+   "side": "byzantium",
+   "titel": "Manzikert retaken",
+   "text": "The Armenian infantry storm the outer wall; the Turkish garrison surrenders and comes out armed before an unarmoured emperor. A soldier who stole a donkey loses his nose before the icon of the Virgin: 'then, then indeed, I foresaw a great retribution'.",
+   "cite": "#/text/attaleiates/march/7",
+   "citeLabel": "Att. March [7]"
+  },
+  {
+   "d": "August 1071",
+   "side": "seljuk",
+   "titel": "The sultan arrives",
+   "text": "Foragers attacked, Bryennios repulsed, Basilakes taken, a night of arrows round a camp without moon, the river cut off, an Uze contingent under Tamis gone over. Trachaneiotes, hearing of the sultan, retreats into Roman territory with half the army.",
+   "cite": "#/text/attaleiates/battle/7",
+   "citeLabel": "Att. Battle [7]"
+  },
+  {
+   "d": "26 August 1071",
+   "side": "byzantium",
+   "titel": "The battle",
+   "text": "The sultan's envoys offer peace and are refused. Romanos advances all day against a retreating enemy; at evening he turns the imperial standard for the camp; the rear breaks, 'as most people assert' at the word of a cousin of the emperor's stepson; the emperor fights on foot until he is taken.",
+   "cite": "#/text/attaleiates/battle/12",
+   "citeLabel": "Att. Battle [12]",
+   "plate": "fr226"
+  },
+  {
+   "d": "Late August 1071",
+   "side": "seljuk",
+   "titel": "Eight days as the sultan's guest",
+   "text": "'Do not be afraid, emperor', in Attaleiates; three blows and then the pardon, in Ibn al-Athīr; chains and then brotherhood sealed in blood, in Matthew of Edessa. The question ('What would you have done?'), a treaty, a marriage alliance, and release. Ibn al-Athīr names a ransom of a million and a half dinars and a fifty years' truce; Attaleiates only 'a generous gift'.",
+   "cite": "#/text/attaleiates/captivity/4",
+   "citeLabel": "Att. Capt. [4]",
+   "plate": "fr232"
+  },
+  {
+   "d": "Autumn 1071",
+   "side": "byzantium",
+   "titel": "The Doukas coup",
+   "text": "In Constantinople the Caesar John Doukas and his sons have Michael VII proclaimed sole emperor and Eudokia sent to a convent; the provinces are ordered not to receive Romanos as emperor. Attaleiates hears the news at Trebizond and holds it 'past belief'. Ibn al-Athīr has the deposed emperor offer Michael the choice of honouring the treaty, and send the sultan what money he had.",
+   "cite": "#/text/attaleiates/captivity/8",
+   "citeLabel": "Att. Capt. [8]"
+  },
+  {
+   "d": "1071–1072",
+   "side": "byzantium",
+   "titel": "Civil war, and the blinding",
+   "text": "Romanos is beaten at Dokeia and in Cilicia by the Doukai, among them Andronikos, and surrenders on the sworn guarantee of bishops. He is blinded in the summer of 1072 and dies of the wounds on the island of Prote. The treaty he made with the sultan is never carried out.",
+   "cite": "#/text/matthew/battle/6",
+   "citeLabel": "Matt. Battle [6]"
+  },
+  {
+   "d": "Late 1072",
+   "side": "seljuk",
+   "titel": "Alp Arslan killed",
+   "text": "The sultan is stabbed by the commander of a fortress he had besieged across the Oxus. In Matthew of Edessa he had declared the peace broken when he heard of the blinding; the Turkmen move into Anatolia without either treaty or sultan.",
+   "cite": "#/text/matthew/death/1",
+   "citeLabel": "Matt. Death [1]"
+  },
+  {
+   "d": "1073–1081",
+   "side": "byzantium",
+   "titel": "The frontier dissolves",
+   "text": "Roussel de Bailleul, the Frankish captain of 1071, revolts and is fought with Turkish help; Byzantine pretenders hire Turkish troops and garrison cities with them. By 1081 a Seljuk prince holds Nicaea, and Alexios Komnenos takes the throne."
+  },
+  {
+   "d": "c. 1079–1080",
+   "side": "byzantium",
+   "titel": "Attaleiates writes",
+   "text": "The judge who rode with the army writes his history for Nikephoros III Botaneiates, who had risen against the Doukai. It is the only eyewitness account of the battle from either side.",
+   "cite": "#/text/attaleiates/battle/8",
+   "citeLabel": "Att. Battle [8]"
+  },
+  {
+   "d": "15th century",
+   "side": "reception",
+   "titel": "Fortune's wheel",
+   "text": "French manuscripts of Boccaccio's Fall of Illustrious Men show the emperor as the sultan's footstool or mounting block: the Western legend, far from what the eyewitness saw.",
+   "plate": "fr236"
+  },
+  {
+   "d": "1788",
+   "side": "reception",
+   "titel": "Gibbon",
+   "text": "Chapter 57 of the Decline and Fall makes Alp Arslan's clemency and Romanos' fall a set piece of the European canon."
+  },
+  {
+   "d": "1903",
+   "side": "reception",
+   "titel": "The fortress after the earthquake",
+   "text": "Fernand Grenard photographs the ruins of the fortress of Malazgirt above the village after the earthquake of 30 April.",
+   "plate": "ruins"
+  },
+  {
+   "d": "Today",
+   "side": "reception",
+   "titel": "26 August",
+   "text": "In modern Turkey the date is commemorated at Malazgirt each year as the opening of Anatolia to the Turks; in Byzantine history it has long served as the beginning of decline. The eyewitness thought the civil war that followed was the worse calamity."
+  }
  ]
 }

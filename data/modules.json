@@ -7,6 +7,22 @@
    "kurz": "Attaleiates: the campaign of 1071",
    "zk": "Att.",
    "warum": "The only eyewitness account from either side, in Greek with a working translation: the divided army, the omens a judge in the emperor's tent noted down, the night of arrows round the camp, the peace refused, the turned standard and the rumour spread by 'a cousin of the emperor's stepson', the emperor taken fighting on foot, eight days at the sultan's table, and the sentence that turns the history to the civil war."
+  },
+  {
+   "id": "ibnalathir",
+   "datei": "ibnalathir",
+   "side": "seljuk",
+   "kurz": "Ibn al-Athīr: the year 463",
+   "zk": "IA",
+   "warum": "The Seljuk side in Arabic with a working translation: the sultan's war for Baghdad against Cairo at Aleppo, then the king of the Rūm at Malazkird: fifteen thousand horse against two hundred thousand, 'no truce except at Rayy', the Friday prayer and the white shroud, a despised slave who takes the emperor, three blows and the question, a ransom of a million and a half dinars and a fifty years' truce, and the Doukas coup seen from the sultan's court."
+  },
+  {
+   "id": "matthew",
+   "datei": "matthew",
+   "side": "armenian",
+   "kurz": "Matthew of Edessa: the Armenian chronicle",
+   "zk": "Matt.",
+   "warum": "An Armenian monk of Edessa, in Dulaurier's French with a working translation: the empress who shuts Romanos in her rooms, Manzikert taken by the sultan in a day, fifty days before Edessa, the sack of Sebasteia and the emperor's oath against the Armenian faith, traitors' letters from the camp, the Uzes and Pechenegs going over, brotherhood in blood, the blinding, the sultan's lament, and his death across the Oxus."
   }
  ],
  "planned": [
@@ -23,20 +39,6 @@
    "kurz": "Attaleiates: the omens of the march (1071)",
    "warum": "The departure from Constantinople in March 1071: the imperial tent that collapses at Helenopolis ('the pitiful city'), the fire that burns the emperor's horses, the quarrel with the German guard. The first half of the historian's case that the defeat was foretold.",
    "quelle": "Attaleiates, Historia, ed. Bekker (Bonn 1853), pp. 142–148."
-  },
-  {
-   "id": "ibnalathir",
-   "side": "seljuk",
-   "kurz": "Ibn al-Athīr: the sultan and the king of the Rūm (1071)",
-   "warum": "The fullest Arabic account in a public-domain edition: the sultan's prayer before the battle, the captive king brought before him, the question and the answer, the ransom and the tribute. The other side of every scene in Attaleiates' third section.",
-   "quelle": "Ibn al-Athīr, al-Kāmil fī l-taʾrīkh, ed. C. J. Tornberg, vol. X (Leiden 1864), year 463 AH. Internet Archive (kamil-Tornberg and Google scans). Arabic, transcribed by eye, with a working translation."
-  },
-  {
-   "id": "matthew",
-   "side": "armenian",
-   "kurz": "Matthew of Edessa: the Armenian chronicle (1071–1072)",
-   "warum": "An Armenian monk of Edessa on Romanos' campaigns, the battle, the release and the blinding, with his own view of Byzantine rule in Armenia. The Armenians fought in the emperor's army and were its first victims on the frontier.",
-   "quelle": "Chronique de Matthieu d'Édesse, tr. Édouard Dulaurier (Paris 1858), ch. on the years 520–521 of the Armenian era. Internet Archive chroniquedematt00mattgoog. French, with a working English translation."
   },
   {
    "id": "psellos",
