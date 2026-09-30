@@ -39,36 +39,55 @@
    "kurz": "Bryennios: the family's version",
    "zk": "Bry.",
    "warum": "The grandson of the general of 1071, writing for Andronikos Doukas' daughter, in Greek with a working translation: the grandfather's wise counsel and his wounds, a false report that the sultan was fleeing, the order of battle with Andronikos 'not at all friendly to the emperor' in the rear, the eunuch Taranges' ambushes, 'at once those of the rearguard withdrew too'; the coup given to the Caesar, the trial of Anna Dalassene with an icon as judge, and Andronikos weeping and protesting the blinding he could not prevent."
-  }
- ],
- "planned": [
-  {
-   "id": "skylitzes",
-   "side": "byzantium",
-   "kurz": "The continuation of Skylitzes and Zonaras (1071)",
-   "warum": "The two later Byzantine summaries on which most retellings rest, largely from Attaleiates; the site sets them beside him to show what the tradition kept and what it dropped.",
-   "quelle": "Scylitzes Continuatus in Georgius Cedrenus, ed. Bekker, vol. II (Bonn 1839); Zonaras, Epitome, ed. Büttner-Wobst, vol. III (Bonn 1897)."
-  },
-  {
-   "id": "aristakes",
-   "side": "armenian",
-   "kurz": "Aristakes of Lastivert: the ruin of Armenia (to 1071)",
-   "warum": "An Armenian lament for the sack of Arzen, Ani and the cities of the frontier in the generation before the battle, closing with Manzikert: the long war the battle ended.",
-   "quelle": "Histoire d'Arménie par le vartabed Arisdaguès de Lasdiverd, tr. Évariste Prud'homme (Paris 1864). Internet Archive. French, with a working English translation."
   },
   {
    "id": "michaelsyr",
+   "datei": "michaelsyr",
    "side": "syriac",
-   "kurz": "Michael the Syrian: the view from the Jacobite church",
-   "warum": "The twelfth-century patriarch of Antioch on Romanos, the battle and its meaning for the Christians of the East under Byzantine and then Turkish rule.",
-   "quelle": "Chronique de Michel le Syrien, tr. J.-B. Chabot, vol. III (Paris 1905). French, with a working English translation."
+   "kurz": "Michael the Syrian: the view from the Syriac church",
+   "zk": "Mich.",
+   "warum": "The Syriac Orthodox patriarch of Antioch, writing in the 1190s, in Chabot's French with a working translation: the emperor 'very harsh and violent in his judgements'; two vows, to burn the sultan and to spare the emperor; the Armenians, pressed to adopt the Greeks' 'heresy', fleeing first; a nephew of the sultan who took the emperor and the soldier crucified for stealing the prize; 'God hears the one who means to do good'; and after the battle, Suleiman crowned sultan of the land of the Romans."
   },
   {
    "id": "gibbon",
+   "datei": "gibbon",
    "side": "reception",
    "kurz": "Gibbon, chapter 57 (1788)",
-   "warum": "The Enlightenment retelling that made Alp Arslan's magnanimity and Romanos' fall a set piece for European readers, as Chesterton's poem did for Lepanto.",
-   "quelle": "Edward Gibbon, The History of the Decline and Fall of the Roman Empire, ch. LVII (London 1788). Project Gutenberg."
+   "zk": "Gibbon",
+   "warum": "The Enlightenment set piece, in Gibbon's English as first printed in 1788, corrected against the page where the common etext goes wrong: the husband of Eudocia and the emperor of the Romans; the standard turned and 'the baser jealousy of Andronicus'; the foot on the neck, doubted; 'many a stripe'; 'repair to Maru'. The notes trace each of his sentences back to the sources this site carries, none of which he could read in full."
+  }
+ ],
+ "planned": [],
+ "missing": [
+  {
+   "side": "seljuk",
+   "kurz": "Sibṭ ibn al-Jawzī, and the contemporary he preserves",
+   "warum": "The most important Muslim account of the battle is not carried. Sibṭ ibn al-Jawzī (d. 1256), in his Mir'āt al-zamān, copies the report of Ghars al-Niʿma Muḥammad ibn Hilāl al-Ṣābi' (d. 1088), a Baghdad contemporary of the battle: nearer the event than Ibn al-Athīr, and fuller in detail. The only edition of these years is Ali Sevim's (Ankara: Türk Tarih Kurumu, 1968), whose rights are not cleared; no public-domain printing exists.",
+   "quelle": "Sibṭ ibn al-Jawzī, Mir'āt al-zamān fī ta'rīkh al-a'yān, years 448–480 H., ed. Ali Sevim (Ankara 1968). Not public domain as far as can be established; not used."
+  },
+  {
+   "side": "seljuk",
+   "kurz": "al-Ḥusaynī, the Seljuk court chronicle",
+   "warum": "The Akhbār al-dawla al-saljūqiyya, compiled in the thirteenth century from Seljuk court tradition, has its own account of the campaign and the battle. Its only edition (Lahore 1933) could not be confirmed as public domain in all the places this site is read; it is not used.",
+   "quelle": "Ṣadr al-Dīn al-Ḥusaynī, Akhbār al-dawla al-saljūqiyya, ed. Muhammad Iqbal (Lahore 1933). Rights not cleared; not used."
+  },
+  {
+   "side": "byzantium",
+   "kurz": "Skylitzes Continuatus and Zonaras: left out by choice",
+   "warum": "The two later Byzantine summaries on which most older retellings rest (Gibbon's among them) copy Attaleiates and Psellos, often word for word. Their few additions, such as the sultan's foot on the emperor's neck, are cited where they matter, through Gibbon's notes. They add length, not a voice.",
+   "quelle": "Scylitzes Continuatus in Cedrenus, ed. Bekker (Bonn 1839); Zonaras, Epitome, ed. Büttner-Wobst (Bonn 1897). Public domain; not carried by decision."
+  },
+  {
+   "side": "armenian",
+   "kurz": "Aristakes of Lastivert: left out by choice",
+   "warum": "An Armenian lament for the ruin of the frontier cities in the generation before 1071; on the battle itself he has little, and the Armenian voice is carried by Matthew of Edessa.",
+   "quelle": "Histoire d'Arménie par le vartabed Arisdaguès de Lasdiverd, tr. Évariste Prud'homme (Paris 1864). Public domain; not carried by decision."
+  },
+  {
+   "side": "armenian",
+   "kurz": "The Armenian of Matthew and the Syriac of Michael",
+   "warum": "Both are carried in the French of their nineteenth- and early twentieth-century translators, Dulaurier (1858) and Chabot (1905), with a working English translation. The originals, in Armenian and in Syriac, are not transcribed: this site cannot yet check them against the page as it does the Greek and the Arabic.",
+   "quelle": "Matthew: Jerusalem 1869 and Vagharshapat 1898 editions. Michael: Chabot's facsimile of the Syriac, tome IV (Paris 1910)."
   }
  ]
 }

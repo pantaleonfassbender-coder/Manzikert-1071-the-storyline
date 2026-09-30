@@ -1,0 +1,138 @@
+{
+ "titel": "Michael the Syrian: the view from the Syriac church",
+ "autor": "Michael the Syrian (Michael I Rabo, 1126–1199), Syriac Orthodox (Jacobite) patriarch of Antioch from 1166; his Chronicle, finished in the 1190s, in the French translation of J.-B. Chabot (1905)",
+ "jahr": "1068–c. 1080, written c. 1195",
+ "orig_sprache": "fr",
+ "pg_label": "Chabot p.",
+ "quelle": "Chronique de Michel le Syrien, patriarche jacobite d'Antioche (1166–1199), ed. and tr. J.-B. Chabot, tome III (Paris: Leroux, 1905), Book XV, chapters 3–4, pp. 168–172. Internet Archive, MichelLeSyrien3 (printed page n = leaf n+8). Public domain.",
+ "hinweis": "The French is Chabot's translation of the Syriac, from the OCR read against every page image; his spelling of names, his square-bracketed supplements and his bracketed references to the Syriac text ([578]–[580]) are kept, his footnote marks dropped. The Syriac (Chabot's volume IV) is not carried. The English is this site's working translation from Chabot's French (CC0). Michael's chronicle runs in parallel columns (the empire, the Turks, the church); the module carries the column of the empire and one aside from the column of the Turks. He wrote more than a century after the battle, as head of a church the Greeks had persecuted and living under Turkish and Crusader lords: his dates are often late and his Suleiman anachronistic, but he preserves a Syrian judgement of 1071 found nowhere else.",
+ "sections": [
+  {
+   "id": "romanos",
+   "zk": "Mich. Romanos",
+   "titel": "The emperor and the sultan (1068–1071)",
+   "blurb": "A Syriac patriarch of the 1190s, from his chronicle's column of the empire: Romanos 'very harsh and violent in his judgements' takes Manbij; Alp Arslan succeeds and sends Suleiman ahead; the emperor vows to burn the sultan, the sultan to send the emperor home in peace.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "168",
+     "titel": "III. Romanos, who is Diogenes",
+     "orig": "CHAPITRE [III]. — De l'époque du commencement du règne de Romanus Diogenes, empereur des Romains, qui fut vaincu et pris par les Turcs. Des affaires ecclésiastiques à cette époque.\nEn l'an 1386, régna sur les Romains l'empereur Romanus, qui est Diogenes. Il régna 3 ans et 8 mois.\nIl fut très dur et violent dans ses jugements. Il fit une expédition et vint jusqu'à Mabboug, qui est Hierapolis ; il organisa contre elle une violente attaque, la prit, et en chassa les Taiyayê.",
+     "en": "Chapter [III]. Of the time of the beginning of the reign of Romanos Diogenes, emperor of the Romans, who was defeated and taken by the Turks. Of church affairs at this time.\nIn the year 1386 the emperor Romanos, who is Diogenes, reigned over the Romans. He reigned 3 years and 8 months.\nHe was very harsh and violent in his judgements. He made an expedition and came as far as Mabbug, which is Hierapolis; he mounted a violent attack on it, took it, and drove the Arabs out of it.",
+     "note": "The year is in the era of the Greeks (Seleucid); 1386 would be 1074/75, but Romanos was crowned on 1 January 1068, and his three years and eight months run to August 1071, as Chabot notes. Michael's years for these reigns run late. Taiyaye is the Syriac name for the Arabs. The taking of Manbij (Hierapolis) is 1068: Matthew tells it too (Matt. Romanos [3])."
+    },
+    {
+     "n": 2,
+     "pg": "168–169",
+     "titel": "Alp Arslan, and Suleiman sent ahead",
+     "orig": "La même année, le premier roi des Turcs étant mort, le trône de l'empire du Khorasan fut occupé [578] par Alb-Arslan, de la même famille. Celui-ci envoya devant lui Soleiman, son parent, pour piller : le sultan lui-même partit à sa suite et s'empara du pays des Arméniens.",
+     "en": "The same year, the first king of the Turks having died, the throne of the empire of Khurasan was taken [578] by Alp Arslan, of the same family. He sent ahead of him Suleiman, his kinsman, to plunder; the sultan himself set out after him and took the country of the Armenians.",
+     "note": "Tughril Beg died in 1063; Alp Arslan was his nephew (Chabot). Suleiman is the son of Qutlumush (Chabot), the later founder of the sultanate of Rum. His father had died fighting Alp Arslan in 1064, and modern historians doubt that the young Suleiman served the sultan in these campaigns; Michael, writing a century later in the lands of Suleiman's descendants, makes him the sultan's right hand."
+    },
+    {
+     "n": 3,
+     "pg": "169",
+     "titel": "To burn him in the fire, or to send him home",
+     "orig": "Quand l'empereur Romanus, qui est Diogenes, apprit cela, il réunit toutes les troupes des Romains, s'en alla [dans] la Grande Arménie, et se disposa à attaquer les Turcs. L'empereur Diogenes disait avec orgueil qu'il triompherait des Turcs, s'emparerait de leur roi, et le ferait brûler dans le feu. Le roi des Turcs se promettait en lui-même, s'il battait les Romains et prenait Diogenes, d'user de miséricorde envers lui et de le renvoyer en paix dans son pays. Et ces choses furent plus tard dévoilées par un prodige.",
+     "en": "When the emperor Romanos, who is Diogenes, learned this, he gathered all the troops of the Romans, went [into] Greater Armenia, and prepared to attack the Turks. The emperor Diogenes said proudly that he would triumph over the Turks, seize their king, and have him burned in the fire. The king of the Turks promised himself that if he beat the Romans and took Diogenes, he would show him mercy and send him back to his country in peace. And these things were later revealed by a wonder."
+    }
+   ]
+  },
+  {
+   "id": "battle",
+   "zk": "Mich. Battle",
+   "titel": "The battle and the captive (1071)",
+   "blurb": "The Armenians, pressed to adopt the Greeks' 'heresy', flee first; Suleiman's twelve sons with a thousand horse each; a nephew of the sultan takes the emperor, and a soldier who struck him down to claim the prize is crucified; 'God hears the one who means to do good'.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "169",
+     "titel": "The Armenians turn their backs",
+     "orig": "La division survint entre les notables des Romains et leur empereur. Les troupes des Arméniens, qu'ils voulaient contraindre à adopter leur hérésie, prirent la fuite les premières et tournèrent le dos dans la bataille. Alors, les Turcs, par leur bonne entente, vainquirent les Romains.",
+     "en": "Division arose between the notables of the Romans and their emperor. The troops of the Armenians, whom they wanted to force to adopt their heresy, were the first to flee and turned their backs in the battle. Then the Turks, by their good accord, defeated the Romans.",
+     "note": "A Syriac Orthodox (Jacobite) patriarch writing c. 1190: the 'heresy' is the Chalcedonian faith of the Greek church, which Constantinople pressed on the Armenians and the Syrians alike. Michael gives the defeat two causes, the quarrel of the Roman notables with their emperor and the flight of Armenians the Greeks had persecuted. Matthew, an Armenian, blames the Uzes and Pechenegs instead (Matt. Battle [5]); Attaleiates the rearguard (Att. Battle [12])."
+    },
+    {
+     "n": 2,
+     "pg": "169",
+     "titel": "Suleiman and his twelve sons",
+     "orig": "Il y eut dans cette bataille un autre fait digne de mémoire. Comme les deux partis étaient prêts pour le combat, Soleiman, cousin du sultan, demanda à celui-ci de lui confier la bataille, tandis que lui-même resterait sur son trône au sommet de la colline. Le sultan ayant consenti, Soleiman disposa ses fils, qui étaient douze hommes faits, et donna à chacun 1.000 cavaliers ; ils s'armèrent et descendirent pour attaquer les Romains.",
+     "en": "There was another thing worth remembering in this battle. When both sides were ready for the fight, Suleiman, the sultan's cousin, asked him to entrust the battle to him, while he himself stayed on his throne at the top of the hill. The sultan agreed; Suleiman drew up his sons, who were twelve grown men, and gave each of them 1,000 horsemen; they armed themselves and went down to attack the Romans.",
+     "note": "No other source has Suleiman or twelve sons at Manzikert, and Ibn al-Athīr has the sultan himself charge (IA Battle [6]). The picture of the sultan on his throne on a hill, directing from afar, is close to Bryennios' 'the sultan stood somewhere far off arranging the battle' (Bry. Campaign [7])."
+    },
+    {
+     "n": 3,
+     "pg": "169",
+     "titel": "The nephew who took the emperor",
+     "orig": "Quand les deux partis furent mêlés dans les combats, un certain neveu du sultan, qui se tenait près de celui-ci demanda à descendre aussi à la bataille ; mais le sultan ne lui permit pas. Ayant demandé et prié à diverses reprises, il obtint la permission et descendit. Il se rencontra avec l'empereur ; car Diogenes était très fort et courageux, et quoique la plupart des grands avec tous les Arméniens venus avec lui l'eussent abandonné et eussent pris la fuite, il restait encore lui-même à combattre. Quand l'homme qui descendit en dernier lieu rencontra l'empereur, il le frappa et le renversa, et comme il se disposait à le massacrer, l'empereur des Romains se fit connaître. Le Turc se réjouit et s'empara de lui. Il l'amenait vers leur roi, quand un autre soldat l'ayant vu et l'ayant questionné, le premier lui apprit que cet (homme) était l'empereur des Romains ; alors ce misérable voulut s'attribuer la victoire, il frappa du glaive celui qui avait pris l'empereur, le renversa, prit lui-même l'empereur qui était enchaîné et l'amena au sultan. Vers le soir, le sultan voyant que son neveu ne revenait pas, envoya quelques hommes à sa recherche ; ils le trouvèrent gisant, mais pas encore mort. Ils l'amenèrent, et Diogenes, l'ayant reconnu, raconta ce qui s'était passé. Alors le sultan ordonna de crucifier cet homme astucieux et donna ses biens à celui qui avait été frappé iniquement.",
+     "en": "When the two sides were locked in the fighting, a certain nephew of the sultan who stood beside him asked to go down to the battle too; but the sultan did not allow it. Having asked and begged several times, he got leave and went down. He met the emperor; for Diogenes was very strong and brave, and although most of the great men, with all the Armenians who had come with him, had abandoned him and fled, he himself was still fighting. When the man who went down last met the emperor, he struck him and threw him down, and as he was about to kill him, the emperor of the Romans made himself known. The Turk rejoiced and seized him. He was bringing him to their king when another soldier saw him and questioned him, and the first told him that this (man) was the emperor of the Romans; then that wretch wanted to claim the victory for himself: he struck the man who had taken the emperor with his sword, threw him down, took the emperor, who was in chains, himself, and brought him to the sultan. Towards evening the sultan, seeing that his nephew did not come back, sent some men to look for him; they found him lying there, but not yet dead. They brought him, and Diogenes, recognising him, told what had happened. Then the sultan ordered that cunning man to be crucified and gave his goods to the man who had been struck down unjustly.",
+     "note": "Chabot: 'nephew' is a sister's son. Every source has its own captor. For Ibn al-Athīr it is a despised slave soldier of Gawhara'in (IA Battle [7]); for Attaleiates the sultan learns of the capture only the next day (Att. Capt. [1]). Michael's story of the stolen capture and the crucifixion is found nowhere else."
+    },
+    {
+     "n": 4,
+     "pg": "170",
+     "titel": "'God hears the one who means good'",
+     "orig": "Alors, le sultan demanda à Diogenes ce qu'il était disposé à faire à son égard au cas où il l'aurait fait prisonnier. Diogenes confessa qu'il voulait le faire brûler au feu. Et le sultan reprit : « Et moi, je m'étais promis de te traiter avec miséricorde si tu étais pris. Sache donc que [579] Dieu exauce celui qui médite de faire le bien ». Ensuite, il le renvoya avec une escorte jusqu'à la frontière des Romains et l'abandonna.\nOn dit que le sultan Alb-Arslan était juste, et on rapporte de lui beaucoup de belles actions.",
+     "en": "Then the sultan asked Diogenes what he had been prepared to do to him if he had taken him prisoner. Diogenes confessed that he had meant to have him burned in the fire. And the sultan answered: 'And I had promised myself to treat you with mercy if you were taken. Know, then, that [579] God hears the one who means to do good.' Then he sent him back with an escort to the frontier of the Romans and left him.\nThey say that the sultan Alp Arslan was just, and many fine deeds are told of him.",
+     "note": "The question 'what would you have done with me?' is in every account, with a different answer each time: 'I would have used up your body with many blows' (Att. Capt. [4]), 'something ugly' (IA Battle [8]). The escort to the frontier matches IA Battle [9]. Here the 'wonder' promised in [3] is revealed: two vows, and God answers the better one."
+    }
+   ]
+  },
+  {
+   "id": "after",
+   "zk": "Mich. After",
+   "titel": "After the battle (1071–c. 1080)",
+   "blurb": "Blinded on an oath 'and he died the next day'; a remark from Arabic books; how the Turks came to Syria; Michael VII in his palace; Suleiman crowned sultan of the land of the Romans; Atsiz in Damascus and Jerusalem.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "170",
+     "titel": "Blinded on an oath",
+     "orig": "Quand les Grecs apprirent que Diogenes était pris, ils établirent pour empereur Michel, fils de Constantinus, qui créa César un nommé Iwannis. Celui-ci ayant appris que Diogenes était libéré, lui fit astucieusement un serment ; Diogenes ayant ajouté foi à ses serments et étant venu, ils lui crevèrent les deux yeux, et il mourut le lendemain. Ainsi sont les athées dans toutes leurs actions de tout temps.",
+     "en": "When the Greeks learned that Diogenes had been taken, they set up as emperor Michael, son of Constantine, who made a certain Iwannis Caesar. This man, learning that Diogenes had been freed, cunningly swore him an oath; Diogenes trusted his oaths and came, and they put out both his eyes, and he died the next day. Such are the godless in all their deeds at all times.",
+     "note": "Iwannis is the Caesar John Doukas (Chabot), Caesar since 1059, not made so by Michael VII. The oath is the bishops' guarantee at Adana (Att. Blind. [4]); Romanos did not die the next day but 'after a few days', of the festering wounds, on Prote in the summer of 1072 (Att. Blind. [5]). 'The godless' (Chabot's athées) are the Chalcedonian Greeks."
+    },
+    {
+     "n": 2,
+     "pg": "170",
+     "titel": "A remark: Abu'l-Fath, and a battle near Amid",
+     "orig": "(Remarque). — Dans les livres arabes, nous avons trouvé que le nom du sultan qui vainquit les Grecs était Abou 'l-Fatah ; et aussi que la bataille entre les Turcs et les Grecs se livra près d'Amid. Peut-être que son nom était Alb-Arslan, et que ce surnom lui fut imposé par le khalife, lorsqu'il devint sultan.",
+     "en": "(Remark.) In the Arabic books we have found that the name of the sultan who defeated the Greeks was Abu'l-Fath, and also that the battle between the Turks and the Greeks was fought near Amid. Perhaps his name was Alp Arslan, and this surname was given him by the caliph when he became sultan.",
+     "note": "Chabot: the remark may be a copyist's, but nothing prevents it being Michael's. Abu'l-Fath was indeed Alp Arslan's kunya ('father of victory'). 'Near Amid' is wrong: the battle was fought near Manzikert, north of Lake Van. The remark shows a Syriac chronicler of the 1190s checking Arabic books and not quite fitting them to his own."
+    },
+    {
+     "n": 3,
+     "pg": "170–171",
+     "titel": "An aside from the column of the Turks: how they came to Syria",
+     "orig": "Quand l'empire des Turcs commença dans le Khorasan, alors que le sultan Togril-bek occupait le trône, celui-ci fit partir un peuple nombreux de Turcs avec le général Basîsârî. Étant parvenu jusqu'à Balas, il y demeura une année, puis revint dans le Khorasan.\nBientôt après, c'est-à-dire en l'an 1379, il sortit de nouveau et vint jusqu'à Berrhoé, qui est Alep. Tel fut le commencement de l'exode des Turcs dans la Cœlé-Syrie et le littoral de la Palestine. Ils soumirent toutes ces contrées par de cruelles dévastations et par le pillage. — Fin.",
+     "en": "When the empire of the Turks began in Khurasan, while the sultan Tughril Beg held the throne, he sent out a numerous people of Turks with the general Basasiri. Having come as far as Balis, he stayed there a year, then went back to Khurasan.\nSoon after, that is in the year 1379, he came out again and came as far as Beroea, which is Aleppo. That was the beginning of the going-out of the Turks into Coele-Syria and the coast of Palestine. They subdued all those countries with cruel devastation and plunder. (End.)",
+     "note": "Chabot identifies the general as Abu'l-Harith Arslan al-Basasiri. Michael has the roles confused: al-Basasiri was the Turkish commander in Baghdad who went over to the Fatimids of Cairo and fought Tughril, and was killed in 1060. What the aside does show is how a Syrian saw the Turks' arrival in Syria before 1071: as the start of the war for Syria between Baghdad and Cairo that Alp Arslan was waging when the emperor marched (IA Aleppo)."
+    },
+    {
+     "n": 4,
+     "pg": "172",
+     "titel": "IV. Michael in his palace",
+     "orig": "CHAPITRE [IV]. — De l'époque du commencement du règne de Michel, fils de Constantinus, empereur des Romains. Commencement du second sultanat des Turcs dans la contrée du Pont. Sur la perturbation des affaires ecclésiastiques à cette époque. Sur Philartus, arménien de cette époque.\nLes Romains ayant été vaincus par les Turcs, ne purent plus jamais s'opposer à ceux-ci. La crainte s'était emparée de l'empereur Michel qui commença à régner en l'an 1389. Il prêta l'oreille à des conseillers lâches et efféminés, resta à l'intérieur de son palais royal et ne s'avança pas à l'encontre des Turcs. Il envoya de nouveau rassembler le reste du peuple demeuré dans le Pont, et les fit passer au-delà de la mer ; les forteresses et les villes que gardaient les Romains demeurèrent dans la crainte et la terreur.",
+     "en": "Chapter [IV]. Of the time of the beginning of the reign of Michael, son of Constantine, emperor of the Romans. Beginning of the second sultanate of the Turks in the country of Pontus. Of the disorder of church affairs at this time. Of Philaretos, an Armenian of this time.\nThe Romans, having been defeated by the Turks, could never again stand against them. Fear had taken hold of the emperor Michael, who began to reign in the year 1389. He listened to cowardly and effeminate counsellors, stayed inside his royal palace and did not go out against the Turks. He sent again to gather the rest of the people left in Pontus and had them taken across the sea; the fortresses and towns the Romans held remained in fear and terror.",
+     "note": "'Across the sea' is from the Syrian author's point of view, as Chabot notes: over to the European side. 'Could never again stand against them' is the judgement of a writer who knew the century that followed; Attaleiates and Psellos, writing within a decade, do not yet speak of a turning point."
+    },
+    {
+     "n": 5,
+     "pg": "172",
+     "titel": "Suleiman, sultan of the land of the Romans",
+     "orig": "Les Turcs, après avoir remporté cette grande victoire, régnèrent sur toute l'Arménie. Leur sultan, Alb-Arslan, qui est Abou 'l-Fatah, qu'ils appellent le Juste, envoya son cousin Soleiman dans le pays de la Cappadoce et du Pont, et lui donna le pouvoir de se faire proclamer sultan. Quand il vint, les Romains prirent la fuite devant lui. Il s'empara des villes de Nicée et de Nicomédie et y régna : et toute la contrée fut remplie de Turcs. Quand le khalife de Bagdad apprit cela, il envoya un étendard et d'autres objets, et lui-même couronna Soleiman et le proclama sultan, c'est-à-dire roi, [580] et l'autorité lui fut confirmée. Les Turcs eurent donc ces deux rois : un dans le Khorasan, et l'autre dans le Beit Roumayê ; en dehors de ceux de la Margiane.",
+     "en": "The Turks, after winning this great victory, ruled over all Armenia. Their sultan, Alp Arslan, who is Abu'l-Fath, whom they call the Just, sent his cousin Suleiman into the country of Cappadocia and Pontus, and gave him power to have himself proclaimed sultan. When he came, the Romans fled before him. He took the cities of Nicaea and Nicomedia and reigned there, and the whole country was filled with Turks. When the caliph of Baghdad learned this, he sent a standard and other things, and himself crowned Suleiman and proclaimed him sultan, that is king, [580] and the authority was confirmed to him. So the Turks had these two kings: one in Khurasan, and the other in Beit Rumaye (the land of the Romans), besides those of Margiana.",
+     "note": "Michael compresses a decade. Suleiman ibn Qutlumush took Nicaea in the civil wars of the later 1070s, after Alp Arslan's death (1072), and not by his commission; the caliph's investiture is Michael's (Chabot notes that the Arabic version of the chronicle turns the 'standard' into 'various presents'). Chabot glosses 'power' with the Greek authentia. Beit Rumaye, 'the house of the Romans', is the sultanate of Rum, in Michael's own day the power in whose lands he lived."
+    },
+    {
+     "n": 6,
+     "pg": "172",
+     "titel": "Atsiz takes Damascus and Jerusalem",
+     "orig": "A cette époque, en l'an 1396, les Égyptiens se séparèrent aussi du premier empire des Arabes. Quoique les Égyptiens fussent de la race des Arabes, cependant, à cause de la différence entre la croyance de ceux d'Égypte et de ceux d'Assyrie et de Babylonie, ils se séparèrent aussi dans le gouvernement. Le sultan du Khorasan envoya donc un émir nommé Aqsis, de la tribu d'Ortoq, qui enleva Damas aux Égyptiens. Il monta et régna sur Jérusalem, toute la Palestine, Tyr et Sidon. Et comme les Romains avaient été vaincus, ils s'enfuirent aussi devant lui par mer.",
+     "en": "At this time, in the year 1396, the Egyptians too separated from the first empire of the Arabs. Although the Egyptians were of the race of the Arabs, yet because of the difference between the belief of those of Egypt and those of Assyria and Babylonia, they separated in government too. So the sultan of Khurasan sent an emir named Atsiz, of the tribe of Ortoq, who took Damascus from the Egyptians. He went up and reigned over Jerusalem, all Palestine, Tyre and Sidon. And since the Romans had been defeated, they too fled before him by sea.",
+     "note": "Chabot: an allusion to the Fatimids' rule in Egypt; Aqsis is Atsiz (Atsiz ibn Uvaq). He took Jerusalem in the early 1070s and Damascus in 1076. This is the war Alp Arslan had interrupted to meet Romanos: the war for Syria against Cairo (IA Aleppo), carried on by his emirs after his death. Tyre and Sidon stayed Fatimid; Michael's list is generous."
+    }
+   ]
+  }
+ ]
+}

@@ -1,11 +1,11 @@
 {
- "lede": "The same moments of 1068–1072 in the eyewitness Attaleiates, the palace historian Psellos, the family historian Bryennios, the Seljuk-court historian Ibn al-Athīr and the Armenian chronicler Matthew of Edessa. Each column shows the English; the reader carries the originals.",
+ "lede": "The same moments of 1068–1072 in the eyewitness Attaleiates, the palace historian Psellos, the family historian Bryennios, the Seljuk-court historian Ibn al-Athīr, the Armenian chronicler Matthew of Edessa, the Syriac patriarch Michael, and, as the tradition's last word, Gibbon. Each column shows the English; the reader carries the originals.",
  "pairs": [
   {
    "id": "meeting",
    "titel": "The sultan and the captive",
    "frage": "Was the emperor embraced or beaten?",
-   "note": "Attaleiates, who was not present at the meeting but wrote within a decade, has the sultan rise and embrace his captive; Ibn al-Athīr, a century and a half later, has three blows before the pardon; Matthew has chains and then brotherhood sealed in blood. All three keep the question 'What would you have done?', and the sultan's refusal to answer in kind.",
+   "note": "Attaleiates, who was not present at the meeting but wrote within a decade, has the sultan rise and embrace his captive; Ibn al-Athīr, a century and a half later, has three blows before the pardon; Matthew has chains and then brotherhood sealed in blood. All three keep the question 'What would you have done?', and the sultan's refusal to answer in kind. Michael the Syrian turns the meeting into a lesson on two vows: the emperor meant to burn the sultan, the sultan meant to spare him, 'and God hears the one who means to do good'. Gibbon reports the foot on the neck and doubts it, then gives Attaleiates' eight days and 'many a stripe', which he knew only through Skylitzes.",
    "voices": [
     {
      "text": "attaleiates",
@@ -27,6 +27,21 @@
      "sec": "battle",
      "n": [
       6
+     ]
+    },
+    {
+     "text": "michaelsyr",
+     "sec": "battle",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "gibbon",
+     "sec": "captive",
+     "n": [
+      2,
+      3
      ]
     }
    ]
@@ -101,7 +116,7 @@
    "id": "treason",
    "titel": "Who broke the army?",
    "frage": "The Uzes, the Doukas reserve, or the officers who went home?",
-   "note": "Attaleiates swore the Uzes in himself and says none of them went over in the battle; he reports 'as most people assert' that a cousin of the emperor's stepson spread the rumour of defeat. Matthew has the Uzes and Pechenegs go over in the thick of the fight, and Tarkhaniotes and the officers leave for Constantinople. Ibn al-Athīr sees one charge through the dust. The game follows Attaleiates and ties the rout of the reserve to the Doukai. Bryennios, writing for Andronikos' daughter, puts him in the rear 'not at all friendly to the emperor', and then has the rearguard simply withdraw in the same sentence as the right wing breaks.",
+   "note": "Attaleiates swore the Uzes in himself and says none of them went over in the battle; he reports 'as most people assert' that a cousin of the emperor's stepson spread the rumour of defeat. Matthew has the Uzes and Pechenegs go over in the thick of the fight, and Tarkhaniotes and the officers leave for Constantinople. Ibn al-Athīr sees one charge through the dust. The game follows Attaleiates and ties the rout of the reserve to the Doukai. Bryennios, writing for Andronikos' daughter, puts him in the rear 'not at all friendly to the emperor', and then has the rearguard simply withdraw in the same sentence as the right wing breaks. Michael the Syrian, head of a church the Greeks persecuted, has the Armenians flee first, because the Greeks had tried to force their faith on them. Gibbon, in 1788, has no doubt: 'the base cowardice, or the baser jealousy, of Andronicus', quoting Bryennios' own words in his note.",
    "voices": [
     {
      "text": "attaleiates",
@@ -132,6 +147,20 @@
      "n": [
       6,
       7
+     ]
+    },
+    {
+     "text": "michaelsyr",
+     "sec": "battle",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "gibbon",
+     "sec": "battle",
+     "n": [
+      4
      ]
     }
    ]
@@ -172,7 +201,7 @@
    "id": "blinding",
    "titel": "The blinding",
    "frage": "Who did it, on whose order, and after what promise?",
-   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the historian addressing the emperor: 'What do you say, emperor?'. Psellos, Michael's tutor, swears that 'the more devoted' around the emperor ordered it by letter without his knowledge, and that he wept. Matthew of Edessa has Romanos put on the monk's habit himself, and the Romans 'crucify God a second time'; Ibn al-Athīr says nothing of the blinding. Two of the Christian writers lay the deed, in different figures, on the Jews: a commonplace carried as printed and named as such. Bryennios has Andronikos, who took Romanos at Adana, weep and write to his father the Caesar to stop it.",
+   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the historian addressing the emperor: 'What do you say, emperor?'. Psellos, Michael's tutor, swears that 'the more devoted' around the emperor ordered it by letter without his knowledge, and that he wept. Matthew of Edessa has Romanos put on the monk's habit himself, and the Romans 'crucify God a second time'; Ibn al-Athīr says nothing of the blinding. Two of the Christian writers lay the deed, in different figures, on the Jews: a commonplace carried as printed and named as such. Bryennios has Andronikos, who took Romanos at Adana, weep and write to his father the Caesar to stop it. Michael the Syrian has him blinded on the Caesar's oath 'and he died the next day'.",
    "voices": [
     {
      "text": "attaleiates",
@@ -210,6 +239,13 @@
      "sec": "civil",
      "n": [
       3
+     ]
+    },
+    {
+     "text": "michaelsyr",
+     "sec": "after",
+     "n": [
+      1
      ]
     }
    ]

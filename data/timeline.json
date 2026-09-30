@@ -135,7 +135,7 @@
    "d": "1073–1081",
    "side": "byzantium",
    "titel": "The frontier dissolves",
-   "text": "Roussel de Bailleul, the Frankish captain of 1071, revolts and is fought with Turkish help; Byzantine pretenders hire Turkish troops and garrison cities with them. By 1081 a Seljuk prince holds Nicaea, and Alexios Komnenos takes the throne."
+   "text": "Roussel de Bailleul, the Frankish captain of 1071, revolts and is fought with Turkish help; Byzantine pretenders hire Turkish troops and garrison cities with them. By 1081 a Seljuk prince holds Nicaea, and Alexios Komnenos takes the throne. Michael the Syrian, a century later, makes it the sultan's plan: Suleiman sent to Cappadocia and crowned by the caliph (Mich. After [5])."
   },
   {
    "d": "c. 1079–1080",
@@ -144,6 +144,14 @@
    "text": "The judge who rode with the army writes his history for Nikephoros III Botaneiates, who had risen against the Doukai. It is the only eyewitness account of the battle from either side.",
    "cite": "#/text/attaleiates/battle/8",
    "citeLabel": "Att. Battle [8]"
+  },
+  {
+   "d": "c. 1195",
+   "side": "syriac",
+   "titel": "Michael the Syrian writes",
+   "text": "The Syriac Orthodox patriarch of Antioch, in his world chronicle, sets 1071 between the persecution of his church by the Greeks and the rule of the Turks: the Armenians fled first, the sultan kept a vow of mercy, and the Romans 'could never again stand against them'.",
+   "cite": "#/text/michaelsyr/battle/1",
+   "citeLabel": "Mich. Battle [1]"
   },
   {
    "d": "15th century",
@@ -156,7 +164,9 @@
    "d": "1788",
    "side": "reception",
    "titel": "Gibbon",
-   "text": "Chapter 57 of the Decline and Fall makes Alp Arslan's clemency and Romanos' fall a set piece of the European canon."
+   "text": "Chapter 57 of the Decline and Fall makes Alp Arslan's clemency and Romanos' fall a set piece of the European canon, from Skylitzes, Zonaras, Bryennios and the Arabic historians in Latin and French; Attaleiates was not printed until 1853.",
+   "cite": "#/text/gibbon/captive/2",
+   "citeLabel": "Gibbon Captive [2]"
   },
   {
    "d": "1903",
