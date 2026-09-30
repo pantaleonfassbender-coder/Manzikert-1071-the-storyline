@@ -23,16 +23,17 @@
    "kurz": "Matthew of Edessa: the Armenian chronicle",
    "zk": "Matt.",
    "warum": "An Armenian monk of Edessa, in Dulaurier's French with a working translation: the empress who shuts Romanos in her rooms, Manzikert taken by the sultan in a day, fifty days before Edessa, the sack of Sebasteia and the emperor's oath against the Armenian faith, traitors' letters from the camp, the Uzes and Pechenegs going over, brotherhood in blood, the blinding, the sultan's lament, and his death across the Oxus."
+  },
+  {
+   "id": "psellos",
+   "datei": "psellos",
+   "side": "byzantium",
+   "kurz": "Psellos: the palace's version",
+   "zk": "Psell.",
+   "warum": "The philosopher who tutored Michael VII, in Greek with a working translation: woken at night to meet the new emperor, sidelined by a braggart in Homeric armour, taken on the campaign of 1069, praising only the emperor's courage in the battle he did not see; then his own advice not to receive Romanos back, the Varangians' axes, the empress in a crypt with the philosopher at its mouth, the civil war from Michael's side, and the blinding the emperor 'did not know of'."
   }
  ],
  "planned": [
-  {
-   "id": "psellos",
-   "side": "byzantium",
-   "kurz": "Psellos: the court's version (1068–1072)",
-   "warum": "The philosopher who served the Doukai and tutored Michael VII, on Romanos' rise, his campaigns and his fall; he admits he wrote the letter that went with the blinding. The view from the palace that deposed him.",
-   "quelle": "Michael Psellos, Chronographia, Romanos IV, ed. K. N. Sathas (London 1899). Greek, with a working translation."
-  },
   {
    "id": "bryennios",
    "side": "byzantium",

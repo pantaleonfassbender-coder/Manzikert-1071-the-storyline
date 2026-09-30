@@ -1,5 +1,5 @@
 {
- "lede": "The same moments of 1071 in the eyewitness Attaleiates, the Seljuk-court historian Ibn al-Athīr, and the Armenian chronicler Matthew of Edessa. Each column shows the English; the reader carries the originals.",
+ "lede": "The same moments of 1068–1072 in the eyewitness Attaleiates, the palace historian Psellos, the Seljuk-court historian Ibn al-Athīr and the Armenian chronicler Matthew of Edessa. Each column shows the English; the reader carries the originals.",
  "pairs": [
   {
    "id": "meeting",
@@ -65,7 +65,7 @@
    "id": "division",
    "titel": "The divided army",
    "frage": "A general's plan or a traitor's plot?",
-   "note": "Attaleiates defends the division at Theodosiopolis as a reasonable plan overturned by Providence, and says the blame others put on the emperor comes from ignorance. Matthew makes it the work of treacherous counsellors who wrote to the sultan when it was done.",
+   "note": "Attaleiates defends the division at Theodosiopolis as a reasonable plan overturned by Providence, and says the blame others put on the emperor comes from ignorance. Matthew makes it the work of treacherous counsellors who wrote to the sultan when it was done. For Psellos in the palace it is simply bad generalship: he 'drew up against them with the smaller part'.",
    "voices": [
     {
      "text": "attaleiates",
@@ -79,6 +79,13 @@
      "sec": "battle",
      "n": [
       3
+     ]
+    },
+    {
+     "text": "psellos",
+     "sec": "reign",
+     "n": [
+      11
      ]
     }
    ]
@@ -150,7 +157,7 @@
    "id": "blinding",
    "titel": "The blinding",
    "frage": "Who did it, on whose order, and after what promise?",
-   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the blinding done three times over at Kotyaion; Matthew of Edessa has Romanos put on the monk's habit himself to save his life, and the Romans 'crucify God a second time'; Ibn al-Athīr ends with the deposed emperor sending the sultan what money he had, and says nothing of the blinding. Both Christian writers lay the deed, in different figures, on the Jews: a commonplace carried here as printed and named as such.",
+   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the historian addressing the emperor: 'What do you say, emperor?'. Psellos, Michael's tutor, swears that 'the more devoted' around the emperor ordered it by letter without his knowledge, and that he wept. Matthew of Edessa has Romanos put on the monk's habit himself, and the Romans 'crucify God a second time'; Ibn al-Athīr says nothing of the blinding. Two of the Christian writers lay the deed, in different figures, on the Jews: a commonplace carried as printed and named as such.",
    "voices": [
     {
      "text": "attaleiates",
@@ -166,6 +173,44 @@
      "n": [
       6,
       7
+     ]
+    },
+    {
+     "text": "ibnalathir",
+     "sec": "battle",
+     "n": [
+      10
+     ]
+    },
+    {
+     "text": "psellos",
+     "sec": "civil",
+     "n": [
+      10,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": "return",
+   "titel": "Receive him back?",
+   "frage": "Who decided that the released emperor should not be received?",
+   "note": "Attaleiates puts the decree to the provinces in the empress's mouth, then has the Caesar turn it against her. Psellos claims the advice as his own: 'not to receive him and to send orders everywhere forbidding him the government'. Ibn al-Athīr has the deposed emperor offer Michael the choice of keeping the treaty.",
+   "voices": [
+    {
+     "text": "attaleiates",
+     "sec": "coup",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "psellos",
+     "sec": "coup",
+     "n": [
+      1,
+      2
      ]
     },
     {

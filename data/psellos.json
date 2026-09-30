@@ -1,0 +1,362 @@
+{
+ "titel": "Psellos: the palace's version",
+ "autor": "Michael Psellos (1018–c. 1078), philosopher, courtier and tutor of Michael VII; the Chronographia, its last part written under Michael VII (1071–1078)",
+ "jahr": "1067–1072, written after 1071",
+ "orig_sprache": "grc",
+ "pg_label": "Sathas",
+ "quelle": "The History of Psellus, ed. Constantine Sathas (London: Methuen, 1899), pp. 245–259 (the sections on Eudokia, Romanos IV and the beginning of Michael VII), from the Paris manuscript. Internet Archive, University of Toronto copy (historyofpsellus00pseluoft; printed page n = page image n+15). Public domain.",
+ "hinweis": "The Greek is Sathas' text. The machine reading sets the accents and breathings on lines of their own, so the text was built from its base letters and read against the page images line by line; his chapter numbers are kept, and his supplements appear in angle brackets as printed. His footnotes (the manuscript's readings he corrected) are not carried, except in notes. The units are his chapters; each shows its Sathas page and line range. The English is this site's working translation (CC0). Psellos was the tutor of Michael VII and writes as a member of his party ('our general', 'us'); he admits advising that Romanos should not be received back, and swears that Michael did not know of the blinding. His famous letter to the blinded Romanos is in his correspondence, not in this history.",
+ "sections": [
+  {
+   "id": "marriage",
+   "zk": "Psell. Marriage",
+   "titel": "The marriage (1067–1068)",
+   "blurb": "The palace's version of the accession: the empress breaks her oath without telling her closest adviser, calls him at evening in tears about the plundered East, laughs at his advice to take counsel tomorrow, and takes him upstairs to wake her son; the boy gives his tutor a sidelong look and embraces his new stepfather; the Caesar sings the wedding song.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "245.6–245.21",
+     "titel": "V. The empress changes her mind",
+     "orig": "V. Ἀλλ᾽ εὐμετάβλητον ζῷον ὁ ἄνθρωπος, καὶ μάλιστα εἰ καὶ προφάσεις ἰσχυραὶ τῆς μεταβολῆς ἔξωθεν γένοιντο· εἰ γὰρ καὶ τὸ ἦθος στάσιμος ἡ βασιλὶς αὕτη καὶ τὴν ψυχὴν γενναία, ἀλλ᾽ οἱ ἐπιρρέοντες ποταμοὶ κλονοῦσιν αὐτῇ τὸν πύργον τῶν σωφρονικῶν λογισμῶν καὶ πρὸς δευτέραν εὐνὴν ἀνδρὸς κατακλίνουσι· καὶ πολλοῖς μὲν τὸ πρᾶγμα γνώριμον ἐγεγόνει καὶ ἀμφὶ ταῖς γλώσσαις ἐκλώθετο, ἐμοὶ δὲ οὐδ᾽ ὁπωστιοῦν τοῦ ἐνθυμήματος ἡ βασιλὶς ἐκοινώνησεν, αἰδοῖ πάντως τὴν γλῶσσαν ἐπέχουσα, ἵνα μὴ πρὸς τὸν αὐτὸν τοὺς ἐναντίους διαπλέκοιτο λόγους, ἐβούλετο δ᾽ ὅμως κἀμὲ τοῦ σκέμματος μετασχεῖν· ὅθεν μοι προσιόντες τῶν τὰ χείρω μυσταγωγούντων αὐτῇ, προὔτρεπον εἰπεῖν αὐτῇ καὶ παρρησιάσασθαι, ὥστε βασιλέα γενναῖον ἐπιστῆσαι τοῖς πράγμασιν. Ἐγὼ δὲ τοσοῦτον πρὸς αὐτῶν εἰρήκειν, ὡς οὔτ᾽ ἂν εἴποιμι τοῦτο, οὔτε πείσαιμι εἰρηκώς, οὔτε εἰς καλὸν τῆς γλώττης ὀναίμην.",
+     "en": "V. But man is a changeable creature, above all if strong reasons for change come from outside. For though this empress was steady in character and noble in soul, the rivers pouring in upon her shook the tower of her chaste reasonings and bent her towards a second marriage bed. To many the matter had become known and was being spun about on their tongues; but the empress did not share the plan with me in any way at all, holding her tongue from shame, no doubt, so as not to weave contradictory words before the same man; and yet she wanted me too to have a part in the plan. So some of those who were leading her into the worse came to me and urged me to speak to her and speak out: to put a brave emperor over affairs. I told them only this: that I would not say it, nor persuade her if I said it, nor would I get any good from my tongue by it.",
+     "note": "In the chapter before, Psellos has told how Eudokia swore she would rather die than remarry. He is the only writer of the three to say he was kept out of the decision, and the only one to present himself as against it."
+    },
+    {
+     "n": 2,
+     "pg": "245.22–246.3",
+     "titel": "VI. “Do you not know how things are withering?”",
+     "orig": "VI. Τέως δὲ τὸ πρᾶγμα ὑπεψιθύριστο τοῖς πολλοῖς, καὶ τῇ βασιλίδι ὁ βασιλεύσων ἀφώριστο, καὶ κατὰ τὰ ξυγκείμενα τὴν τήμερον μὲν ἐπίδοξος ἐπιδημῆσαι τῆς πόλεως ὁ προσδοκώμενος ἦν, τὴν δὲ αὔριον ὁ βασιλικὸς αὐτῷ θρόνος ἀφώριστο. Ἑσπέρας δέ με προσκαλεσαμένη ἡ βασιλίς, καὶ μόνον ἀπολαβοῦσα, εἶτα δὴ καὶ δακρύουσα, “οὐκ οἶσθα, ἔφησεν, ὡς ἀπανθεῖ τὰ τῆς βασιλείας ἡμῖν πράγματα καὶ εἰς τοὐπίσω χωρεῖ, πολέμων μὲν ἀναρριπιζομένων συχνῶν, βαρβαρικοῦ δὲ πλήθους πᾶσαν τὴν ἕω ληϊζομένων· πῶς οὖν τὰ δεινὰ σταίη τοῖς πράγμασιν;” Ἐγὼ δὲ μηδὲν τῶν γεγονότων εἰδώς, μηδ᾽ ὅτι ἐπὶ θύραις τῶν ἀνακτόρων ὁ βασιλεύσων εἱστήκει, “οὐ τῶν προχείρων τὸ πρᾶγμα, ἔφησ᾽ ἄν, ἀλλὰ τῶν βουλῆς δεομένων καὶ σκέψεως· τήμερον οὖν προβαλοῦ, καὶ αὔριον ἀκροῶ, τοῦτο δὴ τὸ τοῦ ῥήματος.” Ἡ δὲ βραχύ τι ἐπιγελάσασα, “ἀλλ᾽ οὐδ᾽ εἴ τινος, ἔφησε, φρόντισον, τῷ δὲ καὶ πεφρόντισται καὶ διώρισται· ὁ γὰρ τοῦ Διογένους υἱὸς Ῥωμανὸς τὸ βασιλεύειν ἠξίωται καὶ τῶν ἄλλων προκέκριται.”",
+     "en": "VI. Meanwhile the thing was being whispered among the many; the future emperor had been fixed on by the empress, and as agreed the expected man was due to arrive in the City that day, and the imperial throne was set aside for him on the next. In the evening the empress called me, took me aside alone, and then, weeping, said: 'Do you not know how the affairs of the empire are withering for us and going backwards, with wars flaring up again and again and a barbarian host plundering the whole East? How could the dangers be stopped?' And I, knowing nothing of what had happened, not even that the future emperor was standing at the palace doors, said: 'This is not a matter to be settled offhand, but one that needs counsel and thought; so put the question today, and hear the answer tomorrow, as the saying goes.' She laughed a little and said: 'Don't worry about anyone; it has been thought out and decided. Romanos, the son of Diogenes, has been judged worthy to reign and preferred to all the others.'",
+     "note": "Psellos' Eudokia gives the same reason for the marriage that the others give for the campaign: the East plundered by a barbarian host. The famous emperor of 1071 appears first as the man at the door whom the philosopher did not know about."
+    },
+    {
+     "n": 3,
+     "pg": "246.4–246.14",
+     "titel": "VII. “Does your son know?”",
+     "orig": "VII. Ἐπάγην ἀκούσας εὐθὺς καὶ ὅ τι γενοίμην οὐκ ἔχων, “ἀλλ᾽ αὔριον, ἔφησα, κοινωνὸς τοῦ πράγματος καὶ αὐτὸς ἔσομαι·” ἡ δέ, “μή μοι τὴν αὔριον, πρός με εἰρήκει, ἀλλ᾽ αὐτίκα μοι κοινώνει τῆς πράξεως.” Τοσοῦτον δὲ αὖθις αὐτὴν ἠρωτήκειν, “ὁ δέ γε υἱός σου καὶ βασιλεύς, ὃς δὴ καὶ ἐπίδοξος ἦν μοναρχεῖν, συνίστωρ τοῦ γενομένου καθέστηκεν;” Ἡ δέ, “παντάπασι μὲν οὐκ ἀγνοεῖ, ἔφησε, τὸ δρώμενον, τὸ δὲ ἀκριβὲς οὐκ οἶδε τοῦ πράγματος· ἀλλ᾽ εἰς καλὸν τοῦ υἱέος μοι μέμνησαι, ἀναβησόμεθα κοινῇ πρὸς αὐτὸν καὶ τὸ πρᾶγμα διηγησόμεθα· καθεύδει δὲ ἄνωθί που ἔν τινι τῶν βασιλικῶν κοιτωνίσκων.”",
+     "en": "VII. I froze as soon as I heard it, and not knowing what to do with myself I said: 'Well, tomorrow I too will share in the matter.' But she answered me: 'Not tomorrow, please; share in the deed with me now.' I asked her only this further: 'And your son the emperor, who was expected to reign alone: is he aware of what has happened?' She said: 'He is not wholly ignorant of what is being done, but he does not know the matter exactly. But you did well to remind me of my son; we will go up to him together and tell him about it. He is asleep somewhere upstairs in one of the imperial bedrooms.'",
+     "note": "Michael VII, Psellos' pupil, was about seventeen. The question 'does your son know?' is the question of the whole reign."
+    },
+    {
+     "n": 4,
+     "pg": "246.15–246.26",
+     "titel": "VIII. The son is woken",
+     "orig": "VIII. Ἀνεληλύθειμεν γοῦν, ἐκείνη μὲν οὐκ οἶδ᾽ ὅπως ἔχουσα τὴν ψυχήν, ἐγὼ δὲ ἐτεταράγμην καί μοί τις κλόνος ἐξαπιναίως διέσεισε τὰ ὀστᾶ· ὡς δὲ ἐπὶ τῆς κλίνης τοῦ παιδὸς ἡ μήτηρ καθῆστο, “ἀνίστασο, ἔφη, κάλλιστέ μοι τῶν υἱέων καὶ βασιλεῦ, καὶ δέξαι τὸν πατρῷον, ἀντὶ πατρὸς οὐκ ἄρχοντος, ἀλλ᾽ ὑπείκοντος, τοιοῦτον γάρ σοι τοῦτον ἐν γράμμασιν ἡ μήτηρ ἐδέσμησεν.” Ὁ δὲ αὐτίκα ἐξαναστάς, ἐμὲ μὲν ὑπεβλέψατο οὐκ οἶδ᾽ ὅ τι ἐνθυμηθείς, ἅμα δὲ τῇ μητρὶ τοῦ δωματίου ἐν ᾧ ὕπνωττε κατελθών, τόν τε βασιλέα ἤδη τεθέαται, μηδὲν διαλλάξας μήτε τῆς ψυχῆς μήτε τοῦ χρώματος, καὶ ἀσπασάμενος, κοινωνὸς αὐτῷ καὶ τῆς βασιλείας καὶ τῆς εὐθυμίας καθίσταται.",
+     "en": "VIII. So we went up, she in what state of soul I do not know, while I was troubled, and a sudden shaking went through my bones. When the mother had sat down on her son's bed, she said: 'Get up, fairest of my sons and emperor, and receive your stepfather, not a father who rules you but one who defers to you; for your mother has bound him to be such in writing.' He at once got up, gave me a sidelong look, thinking I do not know what, and going down with his mother from the room where he had been sleeping, he now saw the emperor, without any change in his soul or in his colour, embraced him, and became his partner both in the empire and in the rejoicing.",
+     "note": "'Bound in writing': Romanos had signed an undertaking to Eudokia's sons. The sidelong look at Psellos is the future ruler taking note of his tutor's part."
+    },
+    {
+     "n": 5,
+     "pg": "246.27–246.33",
+     "titel": "IX. The Caesar sings the wedding song",
+     "orig": "IX. Μετάκλητος δὲ καὶ ὁ καῖσαρ Ἰωάννης ἐπὶ τούτοις γίνεται, καὶ τὴν σύνεσιν τότε μάλιστα ἐπιδείκνυται, καὶ τοῦ ἀνεψιοῦ καὶ βασιλέως φροντίσας ὅσα εἰκός, καί τινας φωνὰς ὑπὲρ ἐκείνου ἀφείς, συμπανηγυρίζει τοῖς βασιλεύουσι, καὶ μονονοὺ τὸν ὑμέναιον ᾄδει καὶ τῶν ἐπιγαμίων ἐμφορεῖται κρατήρων· καὶ οὕτω ἐπὶ τῷ βασιλεῖ Ῥωμανῷ ἡ τῆς βασιλείας ἐγεγόνει κατάστασις.",
+     "en": "IX. After this the Caesar John was called in too, and then above all he showed his intelligence: having taken care of his nephew the emperor as far as was fitting, and uttered a few words on his behalf, he joined the rulers' celebration, all but sang the wedding song, and drank his fill of the marriage bowls. And so the empire was settled on the emperor Romanos.",
+     "note": "Matthew of Edessa tells the same night from the other side: the Caesar tested by the empress and bowing to the new emperor to save himself (Matt. Romanos [2])."
+    }
+   ]
+  },
+  {
+   "id": "reign",
+   "zk": "Psell. Reign",
+   "titel": "The reign and the campaigns (1068–1071)",
+   "blurb": "A braggart who chafed at the bridle his wife held: the philosopher's advice ignored, the emperor in Homeric armour in the palace, a first campaign without spoils, a second that the philosopher went on and the emperor envied his tactics, the Caesar watched and made to swear, a third campaign without a truce, and a sultan the emperor did not believe was there.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "247.1–247.23",
+     "titel": "X. The emperor Romanos: his father, his character, his marriage",
+     "orig": "Ἡ βασιλεία Ῥωμανοῦ τοῦ Διογένους.\nX. Τῷ βασιλεῖ τούτῳ, φημὶ δὴ Ῥωμανῷ τῷ τοῦ Διογένους, τὸ μὲν γένος ἀρχαῖον καὶ εὔδαιμον, πλὴν τοῦ πατρός· οὗτος γὰρ ἐπὶ τυραννικαῖς αἰτίαις ἁλοὺς ἐπὶ τοῦ αὐτοκράτορος Ῥωμανοῦ τοῦ κατὰ τοὺς Ἀργυρούς, ἑαυτὸν ὤσας κατὰ τοῦ κρημνοῦ ἐξαπόλωλε· ὁ δὲ τρόπος ἔστι μὲν οὐ κατευθύνων, τὰ πλείω δὲ εἰρωνικὸς καὶ ἀλαζών, ἀλλ᾽ οὐδ᾽ αὐτὸς τὰς τυραννίδας ἐκπέφευγεν, ἀλλὰ τὸν μὲν ἄλλον χρόνον ἐλάνθανεν, ἐπὶ δὲ Εὐδοκίας τῆς βασιλίδος, ἣν ὁ λόγος φθάσας ὑπεζωγράφησε, τὸ κρυπτόμενον ἐγύμνωσε βούλευμα· ἀλλ᾽ εὐθὺς ἑαλώκει, καὶ δίκας ἂν ἐδεδώκει ὧν ἐτετολμήκει, εἰ μὴ τὸ τῆς βασιλίδος φιλάνθρωπον ὑπεξεῖλε τοῦτον τῆς κατακρίσεως, παρ᾽ ᾧ καὶ εἰς τὴν κρίσιν ἠπάτηται· ᾠήθη γὰρ ὡς εἰ βασιλέα ποιήσειεν ὃν δέον ἀνελεῖν σέσωκεν, ἑαυτῇ τὸ πᾶν τοῦ κράτους περιποιήσαιτο, καὶ οὐκ ἂν ἐκεῖνον ἄλλο τι φρονεῖν παρ᾽ ὅπερ αὐτὴ βούλοιτο, δίκαια μὲν ὑπολαμβάνουσα, διημαρτήκει δὲ τοῦ σκοποῦ· οὐ πολλὰς γὰρ ἡμέρας ὑποκριθεὶς αὐτῇ τὴν ὑπακοήν, εὐθὺς τῶν οἰκείων ἐγεγόνει ἠθῶν, καὶ ὅσον ἐκείνη κατάρχειν τούτου ἐβούλετο καὶ οἷον τὸν δυναστεύοντα λεοντοκομεῖν, τοσοῦτον ἐκεῖνος τὸν χαλινὸν ἐδυσχέραινε καὶ δεινῶς πρὸς τὴν ἐπέχουσαν χεῖρα ὑπέβλεπε· καὶ τὰ μὲν πρῶτα ἐντὸς ὀδόντων ὑπετονθόρυζεν, εἶτα δὴ καὶ ἐπεδημοσίευε τὴν δυσχέρειαν.",
+     "en": "The reign of Romanos Diogenes.\nX. This emperor, I mean Romanos the son of Diogenes, came of an ancient and prosperous family, except for his father: he was caught in a charge of conspiracy under the emperor Romanos Argyros, threw himself down a cliff and perished. His character was not straightforward; for the most part he was sly and a braggart. Nor did he himself escape conspiracy: at other times he was not found out, but under the empress Eudokia, whom my account has already sketched, he laid bare his hidden design. He was caught at once, and would have paid the penalty for what he had dared had not the empress's humanity snatched him from condemnation; and in her judgement she was deceived by him. For she thought that if she made emperor the man she had saved when he should have been put to death, she would keep the whole of power for herself, and he would think nothing other than what she wished. The idea was just, but she missed her aim. For after pretending obedience to her for not many days, he at once reverted to his own ways; and the more she wanted to command him and, as it were, to be the lion-tamer of the ruler, the more he chafed at the bridle and glared terribly at the hand that held it back. At first he muttered under his breath; then he made his displeasure public.",
+     "note": "The father, Constantine Diogenes, killed himself in 1032 after a conspiracy against Romanos III Argyros. Romanos had been condemned for conspiracy under Eudokia's regency and pardoned by her: the timeline's 'lately condemned for conspiracy'."
+    },
+    {
+     "n": 2,
+     "pg": "247.24–247.34",
+     "titel": "XI. He deferred to me; he wanted to rule alone",
+     "orig": "XI. Ἐμοὶ δὲ προσεῖχεν ὡς κρείττονι· ὅτε γὰρ μετὰ τῶν ἰδιωτῶν ἐτέτακτο, δουλοπρεπέστατα πρός με διέκειτο, καί τινος καὶ παρ᾽ ἐμοῦ συμμαχίας ἀπολελαύκει, καὶ ὃς οὐκ ἐπιλέληστο ταύτης τῆς βασιλείας ἀξιωθείς, ἀλλ᾽ ἠγάπα τε καὶ ἐσέβετο τοσοῦτον, ὡς καὶ ὑπανίστασθαί μοι προσιόντι καὶ τὰ πρῶτα χαρίσασθαι τῆς πρὸς αὐτὸν οἰκειώσεως· ἀλλὰ τοῦτο μὲν πάρεργον κείσθω τοῦ λόγου. Ὁ δὲ ἐβούλετο μὲν αὐταρχεῖν καὶ τὸ κράτος τῶν πραγμάτων ἔχειν μονώτατος, οὔπω δέ τι γενναῖον τῇ ἀρχῇ συνεισενεγκὼν ἐταμιεύετο τὸν καιρόν· καὶ τούτου τε ἕνεκα τοῦ σκοποῦ, πρὸς δὲ καὶ τῆς ὑπὲρ τῶν ὅλων σωτηρίας, κηρύττει κατὰ Περσῶν πόλεμον.",
+     "en": "XI. Towards me he behaved as to his better. For when he was ranked among private persons he was most servile towards me, and he had enjoyed some support from me too; and he did not forget it when he was raised to this throne, but loved and revered me so much that he would rise when I came in and give me the first place in his intimacy. But let this stand as a digression. He wanted to rule by himself and to hold power over affairs quite alone; but not yet having contributed anything noble to the reign, he bided his time. And for this purpose, and also for the safety of the whole, he declared war on the Persians.",
+     "note": "Psellos' 'Persians' are the Turks, as in Attaleiates. The war, in his telling, serves the emperor's wish to rule alone first, and the empire second."
+    },
+    {
+     "n": 3,
+     "pg": "248.1–248.14",
+     "titel": "XII. The philosopher's advice, and the spear of twenty-two cubits",
+     "orig": "XII. Κἀγὼ μέν, ὅπερ δὴ ποιεῖν εἴωθα τὰ συνοίσοντα τοῖς βασιλεύουσι παραινεῖν, ἐπεῖχον τὸν ἄνδρα, καὶ πρότερον ἔφασκον περὶ τῶν στρατιωτικῶν δυνάμεων διαλέγεσθαι καὶ καταλόγους ποιεῖν, καὶ ξενικὴν συμμαχίαν προσαγαγεῖν, εἶθ᾽ οὕτως ἐφ᾽ ἑτοίμοις τοῖς πράγμασι πολεμεῖν αἱρεῖσθαι· οἱ δέ γε εἰωθότες παρὰ τὴν ἐμὴν γλῶσσαν λαλεῖν, πλὴν ἐνίων, καὶ τότε καὶ νῦν τὰ πράγματα διεφθάρκασιν. Ἐνίκα γοῦν τὰ χείρω· καὶ τὴν πολεμικὴν πανοπλίαν ἀπὸ τῶν ἀνακτόρων ἐνδύς, ἀσπίδα τε λαβὼν τῇ ἀριστερᾷ καὶ δόρυ τῇ δεξιᾷ κολλητὸν βλήτροισι δύο καὶ εἰκοσάπηχυ, ᾤετο τῇ μὲν ἀποφράττειν τοῖς πολεμίοις τὴν ἔφοδον, τὸ δόρυ δὲ ταῖς πλευραῖς ἐπωθεῖν· καὶ ἐπὶ τούτοις οἱ μὲν ἄλλοι ἠλάλαζον καὶ τὼ χεῖρε ἐκρότουν, ἐγὼ δὲ ἐσκυθρώπαζον τῶν μελλόντων ὁπόσον εἰκὸς στοχαζόμενος.",
+     "en": "XII. As for me, as I am accustomed to advise rulers what will be to their advantage, I held the man back, and told him first to discuss the military forces, to hold musters and bring in foreign allies, and only then, with everything ready, to choose to make war. But those who are used to speaking against my tongue, with a few exceptions, have ruined affairs then and now. So the worse prevailed. Putting on his armour in the palace, taking a shield in his left hand and in his right a spear 'joined with rings, twenty-two cubits long', he thought he would block the enemy's attack with the one and drive the spear into their sides with the other. At this the others shouted and clapped their hands, while I scowled, guessing, as far as one could, at what was to come.",
+     "note": "The spear is Homer's (Iliad XV.678, the pike Ajax wields from the ships), as Sathas notes: Psellos makes the soldier-emperor a figure out of epic, in the palace. 'Then and now' places the writing under Michael VII."
+    },
+    {
+     "n": 4,
+     "pg": "248.15–248.24",
+     "titel": "XIII. The first campaign: a trophy without spoils",
+     "orig": "XIII. Ἐξεληλύθει γοῦν κατὰ τῶν βαρβάρων πανστρατιᾷ, οὔθ᾽ ὅπῃ πορεύεται ἐπιστάμενος οὔθ᾽ ὃ δράσειεν· ἐπεπλάνητο γοῦν ἑτέραν μὲν προθέμενος, ἑτέραν δὲ πορευόμενος, καὶ Συρίαν μὲν καὶ Περσίδα περινοστούμενος, τοσοῦτον δὲ κατορθῶν ὁπόσον ἀνάγειν τὸ στράτευμα καὶ ἐπὶ μετεώρων λόφων ἱστᾶν, καὶ αὖθις κατάγειν, στεναῖς τε ἀπολαμβάνειν ὁδοῖς καὶ πολλοὺς ἀπολλύειν τῷ στρατηγήματι. Τέως μὲν οὖν τῷ δοκεῖν τροπαιοφόρος ἐπάνεισιν, οὔτε Μηδικὰ σκῦλα κομίσας ἡμῖν οὔτε Περσικά, ἀλλὰ τούτῳ μόνῳ τῶν πάντων ἐπαιρόμενος ὅτι κατὰ τῶν ἐναντίων ἐστράτευσεν.",
+     "en": "XIII. So he went out against the barbarians with the whole army, knowing neither where he was going nor what he would do. He wandered about, setting out on one road and taking another, going round Syria and Persia, and achieving only so much as to lead the army up and set it on high hills, and lead it down again, to catch it in narrow roads, and to lose many men by his generalship. Then, in appearance, he came back a bearer of trophies, bringing us neither Median spoils nor Persian, but priding himself on this alone of all things: that he had campaigned against the enemy.",
+     "note": "The campaign of 1068, which Matthew of Edessa ends with the capture of Manbij (Matt. Romanos [3]). Psellos, who went on the next campaign himself, allows it nothing."
+    },
+    {
+     "n": 5,
+     "pg": "248.25–249.3",
+     "titel": "XIV. Arrogance; the philosopher between husband and wife",
+     "orig": "XIV. Αὕτη πρόφασις αὐτῷ πρώτη τῆς ἀλαζονείας ἐγένετο· ἐντεῦθεν καὶ τῆς βασιλίδος κατωλιγώρει, καὶ τῶν ἐν τέλει καταπεφρονήκει, καὶ τῶν συμβούλων ἀφέμενος, τοῦτο δὴ τὸ τῶν βασιλέων ἀνίατον νόσημα, ἑαυτῷ πρὸς πᾶν ὁτιοῦν ἐχρῆτο καὶ συμβούλῳ καὶ παραινέτῃ. Ἐγὼ δέ, ὄμνυμι δὲ θεὸν ὃν ἡ φιλοσοφία πρεσβεύει, ὑπορυττόμενα καταλαμβάνων βουλεύματα, καὶ περὶ τῇ βασιλίδι καὶ τοῖς πράγμασι δείσας μὴ πάντα συγχυθείη καὶ ἀνατραπείη, τοῦ σκοποῦ τε τοῦτον ἀπῆγον, καὶ τῶν συνθηκῶν ὑπεμίμνησκον, ἐνσείων καὶ φόβον ὅπῃ παρείκοι, μήπως ἐναντίον αὐτῷ τὸ τέλος τῶν ἐνθυμημάτων γένοιτο. Ἐπεὶ δὲ καὶ ἡ βασιλεύουσα πολλάκις ὑπ᾽ ἐκείνου πληγεῖσα διῳδήκει τὴν ψυχὴν καὶ ὕπουλον εἶχε τὸ φρόνημα, ἀμφοτέροις ἐμαυτὸν μερίζων ὑπὲρ ἑκατέρου πρὸς ἕκαστον ἐποιούμην τοὺς λόγους.",
+     "en": "XIV. This was the first occasion of his arrogance. From then on he slighted the empress, despised those in office, and, dropping his counsellors, the incurable disease of emperors, used himself as counsellor and adviser in everything. But I, I swear by the God whom philosophy honours, detecting plots being undermined, and fearing for the empress and for affairs, lest everything be confounded and overturned, drew him away from his aim and reminded him of the agreements, instilling fear too where I could, lest the end of his designs turn out against him. And since the empress, often struck by him, was swollen in soul and had a festering mind, I divided myself between the two and spoke to each on the other's behalf.",
+     "note": "'The agreements' are the written undertaking of Psell. Marriage [4]. Attaleiates too knows the marriage was in trouble, and has the empress refuse to see the emperor off in 1071 before relenting (Att. Dep. [2])."
+    },
+    {
+     "n": 6,
+     "pg": "249.4–249.14",
+     "titel": "XV. The second campaign: I was taken along",
+     "orig": "XV. Οὐ πολὺς χρόνος διεληλύθει, καὶ πρώτου εὐθὺς ἔαρος τὰ τῶν ἐναντίων ὤδινε, καὶ τὸ προλαβὸν τρόπαιον τοῦ βασιλέως ἠλέγχετο· δευτέρων οὖν αὖθις πολέμων παρασκευαί, καὶ ἵνα τὰ ἐν μέσῳ συντέμω, κἀγὼ τῆς στρατείας πάρεργον γίνομαι· τοσαύτην γάρ μοι ἀνάγκην τοῦ συναπαίρειν τούτῳ ἐπήνεγκεν, ὅσην οὐκ ἐνῆν ἀπώσασθαι· λέγειν μὲν οὖν τὴν αἰτίαν, δι᾽ ἥν με ἑαυτοῦ παντάπασιν ἐποιήσατο, νῦν μὲν οὐκ ἂν εἴποιμι, τῆς ἱστορίας τὰ πολλὰ συντέμνων, ἐρῶ δὲ ὁπότε περὶ τούτων ξυγγράφοιμι· οὔπω δὲ ταύτην διαπέφευγα, ὡς μήτ᾽ ἐμοὶ λαβὴν κακονοίας πρὸς ἐκεῖνον γενέσθαι, μήτ᾽ αὐτῷ τὰ πάντα διαπεσεῖν.",
+     "en": "XV. Not much time had passed, and at the very beginning of spring the enemy's plans were in labour, and the emperor's earlier trophy was shown up. So there were preparations for a second war; and, to cut short what lies between, I too became an appendage of the campaign. For he laid such a compulsion on me to set out with him that I could not refuse. The reason why he made me entirely his own I would not tell now, cutting short much of the history; I shall tell it when I write about these things. I have not yet escaped this, so that neither should I have any hold for ill will against him, nor should everything with him come to grief.",
+     "note": "Psellos went on the campaign of 1069. The last sentence is compressed in the Greek and its sense uncertain; Psellos seems to say that he took care to give Romanos no grounds to accuse him."
+    },
+    {
+     "n": 7,
+     "pg": "249.15–249.24",
+     "titel": "XVI. The emperor envied my tactics",
+     "orig": "XVI. Λόγων μὲν οὖν ἡττᾶσθαι τῶν ἐμῶν ἐπὶ πᾶσι διωμολόγει, λέγω δὲ τῶν περὶ τὰς ἐπιστήμας, ἐβούλετο δέ μου τὸ πλέον ἔχειν τῆς στρατηγικῆς συνέσεως· ὡς δέ με οἶδε τὴν τακτικὴν ἐπιστήμην ἠκριβωκότα καὶ ὅσα περὶ λόχους καὶ τάξεις, καὶ ὅσα περὶ μηχανημάτων κατασκευάς, καὶ ἁλώσεις πόλεων, καὶ τἄλλα ὅσα στρατηγικῶν εἰσι διατάξεων, ἐθαύμασε μέν, ἐβάσκηνε δέ, ἀντείχετο δέ μου τοσοῦτον καὶ περιείχετο· εἰδόσι δὲ λέγω πολλοῖς τοῖς τότε ἡμῖν συστρατεύουσιν, ὡς μὴ τῆς διαθέσεως ταύτης εἶναι ὑπερβολήν.",
+     "en": "XVI. He admitted that he was beaten by my learning in everything, I mean in the sciences, but he wanted to have the advantage of me in strategic understanding. When he saw that I had mastered the science of tactics, everything about companies and formations, about the building of engines and the taking of cities, and everything else that belongs to the dispositions of generals, he admired me, but envied me; yet he held on to me and clung to me so much (I speak to many who campaigned with us then and know it) that there could be no going beyond that attachment.",
+     "note": "The philosopher who never commanded an army claims the general's science. Attaleiates, a judge on the next campaign, also wrote himself into the emperor's tent (Att. Battle [8])."
+    },
+    {
+     "n": 8,
+     "pg": "249.24–249.31",
+     "titel": "XVII. The second war: if ten thousand of us fall",
+     "orig": "XVII. Ἐγεγόνει δὲ οὐδ᾽ ὁ δεύτερος αὐτῷ πόλεμος ἔχων τι τοῦ προτέρου πλέον, ἀλλ᾽ ἐν ἴσῃ τῇ στάθμῃ καὶ πάντῃ ἰσόρροπος· εἰ δὲ κατὰ μυρίους μὲν ἡμεῖς πίπτοιμεν, δύο δὲ ἢ τρεῖς ἁλοῖεν πολέμιοι, οὐ νενικήμεθα, καὶ πολὺς ἐφ᾽ ἡμῖν κατὰ τῶν βαρβάρων ὁ κρότος. Ἐντεῦθεν οὖν αὐτῷ πλείων ὁ κόμπος καὶ μεῖζον τὸ φρύαγμα, ὅτι δὶς ἐστρατήγησε καὶ λόγος αὐτῷ τῶν πάντων οὐδείς, ἀλλὰ καὶ παραινέταις χρώμενος κακοήθεσι τῆς εὐθείας πάντῃ ἐτράπετο.",
+     "en": "XVII. The second war too had nothing more than the first, but was of equal weight and in every way evenly balanced: if we fell by the ten thousand while two or three of the enemy were taken, we had not been beaten, and there was great applause for us against the barbarians. From this his boasting grew greater and his snorting louder, because he had been general twice; he took no account of anyone, and, using malicious advisers, turned altogether from the straight road.",
+     "note": "The campaign of 1069, in the game's card 'Raiders behind the army'."
+    },
+    {
+     "n": 9,
+     "pg": "249.32–250.8",
+     "titel": "XVIII. The Caesar watched; the third campaign",
+     "orig": "XVIII. Τὴν μὲν οὖν βασιλίδα ὥσπερ δὴ χειρωσάμενος εἶχεν, καὶ οὐδὲν αὐτῷ πρᾶγμα εἰ καὶ τῶν βασιλείων ἀπαγαγεῖν θελήσειεν, τὸν δὲ Καίσαρα ὑπεβλέπετο, καὶ πολλάκις ὁρμήσας ἑλεῖν τε καὶ καθελεῖν, αὖθις ἐγνωσιμάχει καὶ οὐκ ἐπεχείρει τῷ σκέμματι, τὸ γοῦν παρὸν τὰς δι᾽ ὅρκων αὐτοῦ τε καὶ τῶν υἱέων πίστεις εἰλήφει. Ἐπεὶ δὲ οὐκ εἶχε γενναίαν πρόφασιν ὥστε <τὰ> κατὰ νοῦν αὐτῷ πληρῶσαι βουλεύματα, τρίτον αὖθις καὶ τελευταῖον κατὰ τῶν ἐπικειμένων βαρβάρων ἐπιστρατεύει· οὐ γὰρ ἀνίεσαν οὗτοι ὑποφαινομένου τοῦ ἔαρος ληΐζοντες γῆν τὴν Ῥωμαίων καὶ παμπληθεὶ κατατρέχοντες· ἔξεισιν οὖν αὖθις, πλείονα τῶν προτέρων ἐπαγόμενος συμμαχίαν καὶ δύναμιν.",
+     "en": "XVIII. The empress he held as if he had subdued her, and it would have been nothing to him to drive her from the palace if he had wished; but he looked askance at the Caesar, and often set out to seize him and bring him down, then changed his mind and did not carry out the plan; for the moment he took pledges on oath from him and his sons. And since he had no noble pretext for fulfilling the plans in his mind, he campaigned a third and last time against the barbarians pressing on us; for as spring began to appear they did not let up, plundering the land of the Romans and overrunning it in full force. So he went out again, bringing more allies and forces than before.",
+     "note": "The Caesar John and his sons swore oaths to Romanos: the oaths the Doukai broke in 1071 (Att. Coup [2]). Attaleiates' version of the same spring: the army crossing on the Sunday of Orthodoxy (Att. Dep. [1])."
+    },
+    {
+     "n": 10,
+     "pg": "250.9–250.22",
+     "titel": "XIX. To Caesarea; no truce; the feigned flights",
+     "orig": "XIX. Ὥσπερ δὲ εἰώθει ποιεῖν ἐν πᾶσι πράγμασι πολιτικοῖς τε καὶ στρατιωτικοῖς, μὴ γνώμας παρά του λαμβάνειν τῶν πράξεων, ἄρας εὐθὺς τῷ στρατῷ ἐπὶ τὴν Καισαρέων ἐπείγεται· εἶτα δὴ ὀκνεῖ μὲν προσωτέρω προϊέναι, καὶ ἀφορμὰς ἐπανόδου αὐτῷ τε καὶ τοῖς ἄλλοις ἐδίδου· ὡς δ᾽ οὐκ ἦν τὴν αἰσχύνην ἐπενεγκεῖν, δέον σπονδὰς πρὸς τοὺς πολεμίους ποιήσασθαι καὶ ἐπισχεῖν αὐτοὺς τῆς ἐπετείου ὁρμῆς, ὁ δέ, εἴτε τὰ πράγματα ἀπογνούς, εἴτε θαρρήσας πλέον τοῦ δέοντος, ἀνεπιστρεπτεὶ ἐπὶ τοὺς ἐναντίους χωρεῖ. Οἱ δέ, ὡς τὴν πρόοδον ᾔσθοντο, βουλόμενοι τοῦτον ὑπαγαγεῖν εἰς τὸ ἔμπροσθεν καὶ ἐντὸς ἀρκύων ποιήσασθαι, προέτρεχόν τε τοῖς ἵπποις καὶ αὖθις ἀνθυπενόστουν ὥσπερ δρασμὸν βουλευσάμενοι, καὶ τοῦτο πολλάκις ποιήσαντες ἐνίους τῶν στρατηγῶν συνηρπάκασι καὶ ὑφ᾽ ἑαυτοῖς ἐποιήσαντο.",
+     "en": "XIX. As he was accustomed to do in all affairs, civil and military, taking advice from no one about what was to be done, he set out at once with the army and hurried to Caesarea. Then he hesitated to go further, and gave himself and the others pretexts for returning; but since he could not bring shame on himself, when he should have made a truce with the enemy and held them back from their yearly attack, he, whether despairing of affairs or bolder than he should have been, went against the enemy without turning back. They, when they perceived his advance, wanting to lead him on and get him inside their nets, ran forward on their horses and turned back again as if they had planned flight; and doing this many times they caught some of the generals and made them their own.",
+     "note": "The feigned flight that took Manuel Komnenos in 1070 (Att. 1070 [3]) and Basilakes in 1071 (Att. Battle [3]). 'He should have made a truce': the palace's view is that peace was the right course from the start."
+    },
+    {
+     "n": 11,
+     "pg": "250.23–250.33",
+     "titel": "XX. The sultan himself was there",
+     "orig": "XX. Ὃ δέ με διέλαθεν, ἔλαθε τοῦτον, αὐτὸς δὴ ὁ σουλτάν, ὁ τῶν Περσῶν ἢ Κούρτων βασιλεύς, συνὼν τῷ στρατεύματι καὶ τὰ πλείω τῶν κατορθωμάτων ποιῶν· εἰ δέ τις τοῦτον ἐφώρασεν, ὁ δὲ οὐκ ἐπίστευε λέγοντι, ἀλλ᾽ οὐδὲ εἰρήνην ἐβούλετο, ἀλλ᾽ ᾤετο αὐτοβοεὶ αἱρήσειν τὸ τῶν ἐναντίων στρατόπεδον. Τὸ δ᾽ ἀστρατήγητον τούτου διεῖλε τὰς δυνάμεις, καὶ τὰς μὲν αὐτοῦ κατεῖχε, τὰς δὲ ἐπ᾽ ἄλλο τι ἐξαποστέλλει, καὶ δέον ὅλῳ τῷ πλήθει τοῦ στρατεύματος τοῖς ἐναντίοις ἀντικαθίστασθαι, ὁ δὲ τῷ ἐλάττονι μέρει πρὸς αὐτοὺς ἀντετάξατο.",
+     "en": "XX. What escaped me escaped him too: the sultan himself, the king of the Persians or Kurds, was with the army and doing most of its successful work. If anyone detected this, he did not believe the man who said it; nor did he want peace, but thought he would take the enemy camp at the first shout. His lack of generalship divided his forces: some he kept with him, others he sent off to something else; and when he should have faced the enemy with the whole mass of the army, he drew up against them with the smaller part.",
+     "note": "'Kurds' is Psellos' word. The same division of the army that Attaleiates defends as a reasonable plan (Att. March [4]) and Matthew blames on traitors (Matt. Battle [3]); for the palace it is simply bad generalship. 'What escaped me': Psellos was not on the campaign of 1071."
+    }
+   ]
+  },
+  {
+   "id": "battle",
+   "zk": "Psell. Battle",
+   "titel": "The battle and the news (1071)",
+   "blurb": "Praise for the emperor who fought in person; the capture 'as I have heard from many'; confused messengers in the City; the philosopher's compromise of mother and son together; and the sultan's moderation, which was 'the beginning of evils', and a letter in the released emperor's own hand.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "250.33–251.6",
+     "titel": "XXI. Neither praise nor blame",
+     "orig": "XXI. Τὸ δὲ μετὰ ταῦτα ἐπαινεῖν μὲν οὐκ ἔχω, ψέγειν δὲ οὐ δύναμαι, αὐτὸς τὸν ὅλον κίνδυνον δέχεται· τοῦτο δὲ μέσον ἐστὶν ἀντιρρήσεως· εἰ μὲν γὰρ ὡς φιλοκίνδυνον λογίσαιτό τις τὸν ἄνδρα καὶ ἀγωνιστὴν προθυμότατον, ἔχοι ἂν ἀφορμὰς πρὸς ἐγκώμιον· εἰ δ᾽ ὅτι δέον κατὰ τὴν στρατηγικὴν ἀκρίβειαν πόρρω ἵστασθαι, πρωτοστράτηγον τυγχάνοντα τοῦ στρατεύματος, καὶ τοῖς πλήθεσιν ἐπιτάττειν τὰ δέοντα, ὁ δὲ ἀλογίστως παρεκινδύνευε, πολλὰ ἂν ἐς αὐτὸν ἀποσκώψειεν· ἐγὼ δὲ μετὰ τῶν ἐπαινούντων, ἀλλ᾽ οὐ τῶν αἰτιωμένων εἰμί.",
+     "en": "XXI. What followed I cannot praise, and I cannot blame: he took the whole danger on himself. This lies between two opinions. If one regards the man as a lover of danger and a most eager fighter, one would have grounds for praise; but if one considers that, by the strict rules of generalship, the commander-in-chief of the army should stand well back and give the masses the necessary orders, while he ran risks without reckoning, one would have much to mock him for. I am with those who praise, not with those who blame.",
+     "note": "The only place where the palace historian takes Romanos' side: he fought in person, as Attaleiates says (Att. Battle [15])."
+    },
+    {
+     "n": 2,
+     "pg": "251.7–251.16",
+     "titel": "XXII. The emperor taken",
+     "orig": "XXII. Ὥπλιστο μὲν οὖν τὴν στρατιωτικὴν πανοπλίαν, καὶ τὸ ξίφος ἐγύμνωσεν ἐπὶ τοὺς ἐχθρούς· ὡς δὲ ἐγὼ πολλῶν ἤκουσα, ὅτι καὶ πολλοὺς ἀνῃρήκει τῶν ἐναντίων, τοὺς δὲ καὶ ἐς φυγὴν κατηνάγκασεν. Εἶτα δὴ ὅστις εἴη γνώριμος τοῖς ἐς αὐτὸν βάλλουσι γεγονώς, κύκλῳ τε ὑπὸ τούτων περιστοιχίζεται, καὶ ὀλισθαίνει μὲν τοῦ ἵππου βληθείς, εἶτα δὴ ἑαλώκει, καὶ δορυάλωτος εἰς τοὺς πολεμίους ὁ βασιλεὺς Ῥωμαίων ἀπάγεται, καὶ τὸ στράτευμα διαλύεται· καὶ τὸ μὲν διαφυγὸν μέρος βραχύ τι, τῶν δὲ πλειόνων οἱ μὲν ἑάλωσαν, οἱ δὲ μαχαίρας ἔργον γεγόνασιν.",
+     "en": "XXII. He was armed in full soldier's armour and bared his sword against the enemy; and, as I have heard from many, he killed many of them and forced others to flight. Then, when those shooting at him recognised who he was, he was surrounded by them in a circle, was hit and slipped from his horse, and then was taken; and the emperor of the Romans was led away a prisoner of war among the enemy, and the army broke up. The part that escaped was small; of the greater number some were taken, and some became the work of the sword.",
+     "note": "'As I have heard from many': the palace's account is second-hand. Psellos has no turned standard and no rumour in the rear; the army simply 'broke up' once the emperor was taken. The Doukas reserve is not mentioned."
+    },
+    {
+     "n": 3,
+     "pg": "251.17–251.30",
+     "titel": "XXIII. Messengers, and the empress's council",
+     "orig": "XXIII. Ὁ μὲν οὖν ἐν τῇ αἰχμαλωσίᾳ τοῦ βασιλέως χρόνος ἀναμεινάτω καὶ ὅ τι τῷ κρατήσαντι περὶ τούτου συνδέδοκται. Οὐ πολλαὶ δὲ ἡμέραι διεληλύθεσαν, καὶ τῶν διαπεφευγότων τὸν πόλεμον ἄγγελός τις προλαβὼν τὸ δεινὸν ἐν τῇ πόλει ἀπήγγειλε, καὶ αὖθις ἄλλος, καὶ πάλιν ἐφ᾽ ἑτέρῳ ἕτερος, σαφὲς μὲν οὐδὲν ἀπαγγέλλοντες, αὐτὸ δὲ τὸ δεινὸν ἑρμηνεύοντες· οἱ μὲν γὰρ τεθνηκέναι τὸν βασιλέα, οἱ δὲ ἑαλωκέναι μόνον κατήγγελλον, οἱ δὲ τετρωμένον τοῦτον ἰδεῖν καὶ κατὰ γῆς ἐρριμμένον, οἱ δὲ δέσμιον ἀπαγόμενον εἰς τὸ τῶν ἐναντίων στρατόπεδον. Ἐπὶ συμβούλοις οὖν ἐν τῇ πόλει τὰ πράγματα γίνεται, καὶ τί πρακτέον ἡ βασιλὶς διηρώτα· ἔδοξε γοῦν σύμπασιν, ἐκεῖνον μὲν τέως ἐᾶν, εἴτε ἑαλώκει εἴτε ἐτεθνήκει, ἑαυτῇ δὲ καὶ τοῖς παισὶ κρατύνεσθαι τὴν ἀρχήν.",
+     "en": "XXIII. Let the time of the emperor's captivity wait, and whatever the victor decided about him. Not many days had passed when a messenger from those who had escaped the war got ahead and reported the disaster in the City, and then another, and again another after that, reporting nothing clear but interpreting the disaster itself: some announced that the emperor was dead, others only that he was taken, others that they had seen him wounded and thrown to the ground, others led away in chains to the enemy camp. So affairs in the City came to counsel, and the empress asked what should be done. All agreed to leave him aside for the time being, whether he was taken or dead, and that she and her sons should secure the government.",
+     "note": "Attaleiates too has the empress, 'despairing of the emperor's release', turn to the Caesar and the provinces (Att. Coup [2]); Psellos makes the decision everyone's."
+    },
+    {
+     "n": 4,
+     "pg": "251.31–252.6",
+     "titel": "XXIV. My advice: mother and son together",
+     "orig": "XXIV. Ἐνταῦθα οἱ μὲν τῷ υἱῷ καὶ παιδὶ τὴν βασιλείαν ἐδίδοσαν, ὡς ἀπρακτεῖν τὴν μητέρα παντάπασιν, οἱ δὲ τὸ πᾶν τῆς ἀρχῆς καὶ αὖθις ταύτῃ ἀπένεμον. Ἐμοὶ δὲ οὐδ᾽ ἕτερον ἤρεσκεν, οὐ γὰρ διαψεύσομαί γε τὴν ἐμὴν δόξαν, ἀλλὰ συμπράττειν ἀμφοτέρους, <τὸν μὲν> ὡς τεκούσῃ τὴν ὑπακοὴν ἐνδείκνυσθαι, τὴν δὲ κοινῇ μετὰ τοῦ παιδὸς τὴν τῶν ὅλων ποιεῖσθαι οἰκονομίαν· τοῦτο μὲν οὖν καὶ τῷ βασιλεῖ Μιχαὴλ ἐδόκει καὶ ἐτίθετο τῷ σκοπῷ. Ἀλλ᾽ οἱ τὴν βασιλείαν ἑαυτῶν ποιεῖν βουλόμενοι, καὶ κέρδους τοῦ σφετέρου ἕνεκα τὰ περὶ τὴν ἀρχὴν πραγματεύεσθαι, τὴν μὲν εἰς μοναρχίαν ἠρέθιζον, τὸν δὲ ἀντιπίπτειν τῇ μητρὶ κατηνάγκαζον.",
+     "en": "XXIV. Then some gave the empire to her son and child, so that the mother should have no part at all; others gave the whole government back to her again. Neither pleased me (for I will not belie my own opinion), but that both should act together: he showing obedience to the mother who bore him, she managing the whole of affairs jointly with her son. This seemed right to the emperor Michael too, and he set it as his aim. But those who wanted to make the empire their own, and to handle the affairs of government for their own gain, stirred her up to rule alone and forced him to oppose his mother.",
+     "note": "Sathas supplies τὸν μέν. 'Those who wanted to make the empire their own' is as far as Psellos goes in naming the Doukai."
+    },
+    {
+     "n": 5,
+     "pg": "252.7–252.17",
+     "titel": "XXV. The shy son; the Caesar comes in",
+     "orig": "XXV. Ἐνταῦθα οὐκ οἶδα ὅ τι θαυμάσωμαι τοῦ ἀνδρός· ἐμοὶ γὰρ μόνῳ περὶ τῶν ὅλων κοινολογούμενος ἐβούλετο, εἰ ἀρεστὸν τῇ μητρὶ καὶ τῆς ἀρχῆς μεταστῆναι καὶ μηδὲν πρὸς ἐκείνην ἢ μεγαλοπρεπεύσασθαι ἢ σμικρολογήσασθαι· πολλάκις γοῦν ἐγὼ τούτους συνήγαγον εἰς ταὐτό, ὁ δὲ τοσοῦτον ἀπεῖχε τοῦ ἀντειπεῖν τῇ μητρί, ὥστε καὶ ἀντωπῆσαι αὐτῇ ἠρυθρία καὶ ὑπεστέλλετο. Ἀλλὰ καὶ ἐπὶ τούτοις ἔτι μετεώρου ὄντος τοῦ σκέμματος, ὁ καῖσαρ Ἰωάννης τὴν Πόλιν εἴσεισι, τοῦτο παρὰ τῆς βασιλίδος ἐγκελευσθείς, καὶ τοῦ ἐμοῦ βουλεύματος γίνεται, καὶ τὴν κοινοπραξίαν τοῦ γένους ἀσπάζεται.",
+     "en": "XXV. Here I do not know what to admire in the man. Talking over the whole situation with me alone, he wanted, if it pleased his mother, even to withdraw from the government and to do nothing towards her either grand or petty. I often brought them together, and he was so far from contradicting his mother that he blushed even to look her in the face, and shrank back. While the question was still undecided, the Caesar John came into the City, summoned by the empress, took my view, and embraced the joint rule of the family.",
+     "note": "The same moment in Attaleiates: the empress summons the Caesar and his sons, and the Caesar turns the plan against her (Att. Coup [2]). In Psellos the Caesar supports Psellos' own compromise."
+    },
+    {
+     "n": 6,
+     "pg": "252.18–252.35",
+     "titel": "XXVI. The sultan's moderation, and a letter in the emperor's hand",
+     "orig": "XXVI. Ἀλλ᾽ οὔπω τοῦτο κατευνάσθη τὸ κῦμα, καὶ τῆς αὐτῆς ἡμέρας ἕτερον ἐγείρεται καὶ ἐπωρύεται· ὁ γὰρ τοῦ πολεμίου στρατεύματος ἀρχηγός, ἐπειδὴ τὸν βασιλέα Ῥωμαίων ἁλώσιμον ἐθεάσατο, τῷ μὲν κατορθώματι οὐκ ἐπαίρεται, συστέλλεται δὲ λίαν τῷ εὐτυχήματι, καὶ μετριάζει τῇ νίκῃ τοσοῦτον ὅσον οὐδεὶς ἂν προσεδόκησε, παραμυθεῖται τὸν ἑαλωκότα, κοινωνεῖ τραπέζης, τιμῆς ἀξιοῖ, δορυφορίαν ἐφίστησι, λύει αὐτῷ τῶν δεσμῶν οὓς ἐβούλετο, ἀπολύει τῶν αἰχμαλώτων ὁπόσους προέτρεψε, τελευταῖον καὶ αὐτὸν δὴ τῆς αἰχμαλωσίας ἐλευθεροῖ, καὶ σύμβολα κήδους πεποιηκὼς καὶ ὑποσχέσεις παρ᾽ ἐκείνου λαβὼν ἐνωμότους, μεθ᾽ ὅσης ἂν εἴποι τις προπομπῆς καὶ δορυφορίας ἐπὶ τὴν ἰδίαν ἀποστέλλει ἀρχήν, ὅπερ δὴ ἀρχέκακον ἐγεγόνει καὶ πολλῶν συμφορῶν αἰτιώτατον. Τυχὼν οὖν ὁ βασιλεὺς ὧν οὐκ ἤλπιζεν, ἀπραγματεύτως ᾠήθη τὴν βασιλείαν Ῥωμαίων αὖθις λήψεσθαι, καὶ ὥσπερ αὐτάγγελος τοῦ μετὰ τὸ ἀτύχημα εὐτυχήματος τῇ βασιλίδι καθίσταται γράμμασι τῆς ἰδίας χειρὸς ἃ συμβεβήκοι τούτῳ σημειωσάμενος.",
+     "en": "XXVI. But this wave was not yet laid to rest when that same day another rose and roared. The commander of the enemy army, when he saw the emperor of the Romans a captive, was not elated by his success but greatly humbled by his good fortune, and was as moderate in victory as no one would have expected: he consoled the captive, shared his table, thought him worthy of honour, gave him a guard, freed from their bonds those he wished, released as many captives as he asked, and finally set him too free from captivity; and having made tokens of a marriage alliance and received sworn promises from him, he sent him back to his own empire with all the escort and guard one could describe. This was the beginning of evils and the chief cause of many misfortunes. The emperor, having got what he had not hoped for, thought he would take back the empire of the Romans without trouble, and as if bringing the news himself of his good fortune after misfortune, he wrote to the empress in his own hand what had happened to him.",
+     "note": "Psellos too has the sultan's moderation, the shared table and the marriage alliance (Att. Capt. [3], [5]; Matt. Battle [6]). For him the release, not the defeat, 'was the beginning of evils'. The letter in Romanos' own hand is the news the palace received."
+    }
+   ]
+  },
+  {
+   "id": "coup",
+   "zk": "Psell. Coup",
+   "titel": "The coup in the palace (autumn 1071)",
+   "blurb": "The philosopher's own advice: not to receive him and to forbid him the government. Michael runs from his mother to the Varangians and their axes; the empress hides in a crypt with the philosopher at its mouth; he is carried to the young emperor; the empress sent to her convent against her son's will, then veiled; Diogenes at Amaseia.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "253.1–253.11",
+     "titel": "XXVII. My advice: do not receive him",
+     "orig": "XXVII. Θόρυβος οὖν εὐθὺς καὶ διαδρομαὶ περὶ τὰ βασίλεια, τῶν μὲν θαυμαζόντων τὸ γεγονός, τῶν δὲ ἀπιστούντων τῷ πράγματι· ἀπορίᾳ τε καὶ ἡ βασιλὶς συνείχετο καὶ ἀμφίβολος ἦν ὅ τι καὶ δράσειεν. Ἐν μέσοις τοῖς ἀπορουμένοις καὶ αὐτὸς γεγονώς, καὶ πάντων προτρεπομένων μοι τὸ συμφέρον εἰπεῖν, μάλιστα δὲ τοῦ καλλίστου μοι βασιλέως προσκειμένου καὶ συναναγκάζοντος, ἐγὼ μὲν ἀπεφαινόμην μὴ δεῖν αὐτὸν ἔτι τῇ βασιλείᾳ προσδέξασθαι, ἀλλ᾽ ἐκ μέσου ποιεῖν, καὶ πανταχοῦ πέμπειν προστάγματα τὴν ἀρχὴν τούτῳ ἀπαγορεύοντα· ὅπερ τοῖς μὲν λυσιτελὲς ἐδόκει τοῖς καθεστηκόσι, τοῖς δ᾽ ἄλλο τι ἐδέδοκτο.",
+     "en": "XXVII. At once there was uproar and running about in the palace, some marvelling at what had happened, others disbelieving it; the empress too was held in perplexity and in doubt what to do. I was in the midst of the perplexed myself, and when everyone urged me to say what was best, above all the most excellent emperor pressing and constraining me, I declared that he should not be received into the empire any more, but put out of the way, and that orders should be sent everywhere forbidding him the government. To those in power this seemed advantageous; others had decided something else.",
+     "note": "Psellos' own confession: the decree that Attaleiates attributes to the empress (Att. Coup [2]) was his advice. 'Put out of the way' (ἐκ μέσου ποιεῖν) is deliberately vague."
+    },
+    {
+     "n": 2,
+     "pg": "253.12–253.25",
+     "titel": "XXVIII. Michael and the Varangian guard",
+     "orig": "XXVIII. Ἐν τούτῳ δὲ τῶν πραγμάτων ὄντων, ὁ βασιλεὺς Μιχαὴλ περὶ ἑαυτῷ δείσας καὶ τὴν τοῦ Διογένους ὑποπτεύσας ὠμότητα, βουλὴν βουλεύεται ἀσφαλεστάτην ἑαυτῷ, εἴποι δ᾽ ἄν τις καὶ συνετωτέραν· ἀποτρέχει τῆς μητρὸς καὶ ἑαυτῷ γίνεται, τοῖς τε ἐξανεψιοῖς συμβούλοις χρησάμενος, φημὶ δὲ τοῖς υἱέσι τοῦ Καίσαρος, τοὺς περὶ τὴν αὐλὴν φύλακας οἰκειοῦται· τοῦτο δὲ γένος ἀσπιδοφόροι σύμπαντες καὶ ῥομφαίαν τινὰ ἀπὸ τοῦ ὤμου ἑτερόστομον καὶ βαρυσίδηρον ἐπισείοντες· κτυπήσαντες γοῦν τὰς ἀσπίδας ἀθρόον καὶ ἀλαλάξαντες ὅσον ἐχώρουν αἱ κεφαλαί, τάς τε ῥομφαίας πρὸς ἀλλήλους συντρίψαντές τε καὶ συνηχήσαντες, ἐπὶ τὸν βασιλεύοντα ὡς κινδυνεύοντα συνανίασι, καὶ χορὸν περὶ αὐτὸν ἑλίξαντες ἀθιγῶς ἐπὶ τὰ ὑψηλότερα τῶν ἀνακτόρων ἀνάγουσιν.",
+     "en": "XXVIII. While affairs stood thus, the emperor Michael, fearing for himself and suspecting Diogenes' cruelty, took the safest counsel for himself, and one might say the most intelligent: he ran away from his mother and became his own master. Using his cousins, I mean the Caesar's sons, as counsellors, he won over the palace guards. This race are all shield-bearers and carry on the shoulder a kind of one-edged sword of heavy iron. Beating their shields all together and shouting as loud as their heads would hold, clashing their swords against each other and making them ring, they went up together to the emperor as if he were in danger, formed a dance round him, and took him untouched to the upper parts of the palace.",
+     "note": "The axe-bearing guard is the Varangian guard, Scandinavians and English; its 'one-edged sword of heavy iron' is the Varangian axe. The coup is made by the Caesar's sons, Andronikos and Constantine, as in Attaleiates."
+    },
+    {
+     "n": 3,
+     "pg": "253.26–254.4",
+     "titel": "XXIX. The empress in a crypt; the philosopher at its mouth",
+     "orig": "XXIX. Ἐκεῖνοι μὲν οὖν οὕτως· οἱ δὲ μετὰ τῆς βασιλίδος, ὧν δὴ καὶ αὐτὸς ἐτύγχανον ὤν, ἀγνῶτες τοῦ πράγματος ὄντες, μονονοὺ πεπηγότες ἐγεγόνειμεν, ἐφ᾽ ἑαυτοὺς τὸ δεινὸν ἥξειν οἰόμενοι. Ἡ μέντοι γε βασιλὶς οὐδὲ καθεκτὴ ἦν, ἀλλὰ τῆς κεφαλῆς περιελομένη τὸ κάλυμμα, κατατείνει δρόμον ἐπί τι σπήλαιον ἄδυτον· καὶ ἡ μὲν ἐδεδύκει τῷ φωλεῷ, ἐγὼ δὲ περιειστήκειν τὸ στόμιον, οὐκ ἔχων ὅ τι γενοίμην, οὐδ᾽ ὅποι τραποίμην. Ἀλλ᾽ ὁ βασιλεὺς ἐν τῷ ἀσφαλεῖ καταστάς, ἐμοῦ παρὰ τοὺς ἄλλους ἐφρόντισε, καὶ τοὺς διερευνήσοντάς με καὶ ἀναζητήσοντας πανταχοῦ τῶν ἀνακτόρων ἀπέσταλκεν· οἳ δὴ καὶ εὑρηκότες ἀνελάβοντο ταῖς χερσί, καὶ ὥσπερ τι ἕρμαιον ἢ ἀνάθημα πολυτίμητον τῷ αὐτοκράτορι εὐθύμως προσαγηόχασιν· ὁ δὲ εὐθὺς ἰδὼν ὥσπερ ἀναπνέει τοῦ κλύδωνος καὶ ἐπ᾽ ἐμοὶ τίθεται βουλεύεσθαι τὰ συμφέροντα.",
+     "en": "XXIX. So much for them. Those with the empress, and I happened to be one of them, not knowing what was going on, were all but frozen, thinking the danger would come upon us. The empress could not be held: she tore the covering from her head and ran headlong to an underground crypt; she crept into the hole, and I stood at its mouth, not knowing what to do with myself or where to turn. But the emperor, once in safety, thought of me before the others and sent men to search for me and look everywhere in the palace; they found me, took me up in their hands, and brought me cheerfully to the emperor like a windfall or a precious offering. And he, as soon as he saw me, breathed again as if out of a storm, and left it to me to decide what should be done.",
+     "note": "The scene exists only in Psellos. The man who had advised against receiving Romanos stands guard over the empress in hiding, and then is carried to her son."
+    },
+    {
+     "n": 4,
+     "pg": "254.5–254.15",
+     "titel": "XXX. The empress sent to her convent",
+     "orig": "XXX. Ἐγὼ μὲν οὖν τῶν πολιτικῶν εἰχόμην πράξεων, καὶ τὰ μὲν ᾠκονόμουν, τὰ δὲ διέταττον, ὅπως ἂν ἡμῖν ἀξύγκλυστα γένοιτο τὰ τῆς πόλεως πράγματα, οἱ δὲ περὶ τὴν μητέρα τοῦ βασιλέως ἐπραγματεύοντο· καὶ ἵνα τὰ ἐν μέσῳ πολλὰ ὄντα ἐάσω, κυροῦται κατὰ ταύτης βούλευμα, ὑπεξελθεῖν μὲν τῆς πόλεως, οἰκῆσαι δὲ ὅπερ αὐτὴ πρὸ τῆς θαλάττης τεμένισμα τῇ Θεοτόκῳ ἱδρύσατο· καὶ γίνεται τοῦτο εὐθύς, τοῦ μὲν βασιλέως καὶ παιδός, ὅπερ αὐτὸς οἶδα καὶ τοὺς πολλοὺς βεβαιώσαιμι ὑπὸ θεῷ μάρτυρι, ἀπαρνουμένου τὴν τῆς μητρὸς ἐκδημίαν, τοῦ καιροῦ δὲ συναναγκάζοντος καὶ ἀντιπίπτοντος τῷ τοῦ βασιλέως θελήματι.",
+     "en": "XXX. I then held to the business of state, managing some things and ordering others, so that the affairs of the City might be kept from the flood, while others dealt with the emperor's mother. And, to pass over the many things in between, a decision was confirmed against her: that she should leave the City and live in the precinct she herself had founded to the Mother of God by the sea. This was done at once, although the emperor, her son, refused his mother's banishment (I know this myself and would affirm it to the many, with God as witness), but the moment forced it and went against the emperor's will.",
+     "note": "Attaleiates names the convent (Piperoude, on the Bosporus) and the ship (Att. Coup [2]). Psellos was writing for Michael VII, and swears that the son did not want it."
+    },
+    {
+     "n": 5,
+     "pg": "254.16–254.21",
+     "titel": "XXXI. The veil",
+     "orig": "XXXI. Ἐπεὶ δέ, οἷα φιλεῖ ἐν τοῖς τοιούτοις γίνεσθαί τε καὶ λέγεσθαι, ἄλλος ἄλλο τι περὶ τῆς βασιλίδος ἐδόξαζον, καὶ συνεχεῖς κατ᾽ αὐτῆς λόγοι ἀπετοξεύοντο, δεύτερον γίνεται δόγμα εἰς τὴν μοναδικὴν αὐτὴν μετατεθῆναι ζωήν· αὐτίκα δὲ καὶ τοῦτο τετέλεσται. Καὶ τὰ μὲν περὶ τὴν βασιλίδα εἰς τοῦτο συντέτμηται.",
+     "en": "XXXI. And since, as usually happens and is said in such cases, different people held different opinions about the empress, and continual words were shot at her, a second decree was made that she should be changed over to the monastic life; and at once this too was carried out. And so the story of the empress is cut short here.",
+     "note": "Attaleiates has her shorn and put in black at once (Att. Coup [2]). Psellos, who had praised her chastity in the chapters before, ends her part in one sentence."
+    },
+    {
+     "n": 6,
+     "pg": "254.22–254.29",
+     "titel": "XXXII. Diogenes at Amaseia",
+     "orig": "XXXII. Ὁ δέ γε Διογένης οὐκ ἠγάπησεν ἀπολυθεὶς τῆς αἰχμαλωσίας, ἀλλὰ δεινὸν ἐποιεῖτο εἰ καὶ μὴ τῆς βασιλείας ἐγκρατὴς γένοιτο· ἤδη δὲ καὶ πλῆθος αὐτῷ συνερρυήκεσαν τῆς στρατιωτικῆς φάλαγγος. Ὁ δὲ τόπον ἐκ τόπων ἀμείβων, καὶ κατὰ πολλὴν τοῦ κωλύοντος ἄδειαν χρήματα ἑαυτῷ ἀπὸ τῶν δημοσίων φόρων ὑποποιούμενος, τὸ διὰ πάσης γλώττης βοώμενον πτόλισμα μετὰ παντὸς καταλαμβάνει τοῦ στρατοπέδου, φημὶ δὴ τὴν Ἀμάσειαν.",
+     "en": "XXXII. Diogenes was not content to have been released from captivity, but thought it terrible if he did not also become master of the empire; and already a crowd of the soldiery had flowed to him. Moving from place to place, and in the absence of anyone to stop him taking money for himself from the public taxes, he occupied with his whole army the town famous on every tongue: I mean Amaseia.",
+     "note": "Attaleiates has Romanos camp at Dokeia (Att. Coup [3]); Amaseia is nearby. 'Taking money from the public taxes' is the palace's charge; Attaleiates says nothing of it."
+    }
+   ]
+  },
+  {
+   "id": "civil",
+   "zk": "Psell. Civil",
+   "titel": "The civil war and the blinding (1071–1072)",
+   "blurb": "Constantine Doukas' charge like a winged horseman; the Armenian who took Diogenes into Cilicia; letters of peace answered proudly; Andronikos through the passes; the emperor weeping and sending priests with letters; Crispin's charge, written on the day of his death; Khatchatour naked in a thicket; Adana opened by its garrison; the deed that should not have happened and had to; and the emperor who did not know.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "254.30–255.12",
+     "titel": "XXXIII. Constantine Doukas routs Diogenes",
+     "orig": "XXXIII. Εὐθὺς οὖν τῶν τοῦ Καίσαρος υἱέων τῷ νεωτέρῳ ὁ βασιλεὺς τὸ Ῥωμαϊκὸν πιστεύει στρατόπεδον· οὗτος δὲ καὶ τὴν χεῖρα δραστήριος καὶ τὴν σύνεσιν ὀξὺς καὶ θαυμάσιος, γνῶναί τε τὰ δέοντα καὶ ἑρμηνεῦσαι ἐπιφανέστατος· γενόμενος οὖν ἀγχοῦ τῆς πόλεως οὗ ὁ Διογένης ἐκάθητο, πρῶτα μὲν συνεῖχε τὸ στράτευμα, εἶτα δὴ ἀκροβολισμοῖς ἐχρῆτο συχνοῖς, καὶ αὖθις ἠπάτα, καὶ πάντα τρόπον ἐμηχανᾶτο ἢ αἱρήσειν τοῦτον, ἢ ἐξελάσειν τῆς πόλεως. Ὁ δὲ στενοχωρούντων αὐτῷ τῶν πραγμάτων, τολμᾷ τὴν ἐκεῖθεν ἔξοδον καὶ παρατάσσεται πρὸς αὐτὸν παντὶ τῷ περὶ αὐτὸν στρατεύματι· μίγνυται οὖν τὰ στρατόπεδα, καὶ γίνεται ἐξ ἑκατέρου μέρους φόνος πολύς· ἔπειτα δὲ ὁ ἡμεδαπὸς στρατηγὸς ὥσπερ τις πτερωτὸς ἱππότης ἐλᾷ τὸν ἵππον ἐπὶ τοὺς ἐναντίους, καὶ οἷά τις πύργος ἐμπεσὼν τῇ πολεμικῇ φάλαγγι ὠθεῖ τε ταύτην καὶ εἰς μέρη πολλὰ διασπᾷ· ἐντεῦθεν οἱ μὲν τῶν ἀντικειμένων ἐν αὐτῷ τῷ πολέμῳ μαχόμενοι πίπτουσιν, οἱ δὲ ἑάλωσαν, ὀλίγοι δέ τινες ἐκπεφεύγασι, μετὰ πάντων καὶ ὁ Διογένης ἀνὰ κράτος τὸν ἵππον ἐλαύνων· τοῦτο πρῶτον θάρσους ἡμῖν αἴτιον γίνεται.",
+     "en": "XXXIII. At once, then, the emperor entrusted the Roman army to the younger of the Caesar's sons. He was vigorous with his hand, sharp and admirable in intelligence, and most distinguished at seeing what was needed and putting it into words. Coming near the town where Diogenes was, he first held his army together, then used frequent skirmishes, then tricked him again, and contrived in every way either to capture him or to drive him out of the town. Diogenes, hard pressed, dared to come out from there and drew up against him with the whole army he had. The armies met, and there was great slaughter on both sides; then our general, like a winged horseman, drove his horse against the enemy, fell on their battle line like a tower, pushed it back and tore it into many pieces. Then some of the enemy fell fighting in the battle itself, some were taken, and a few escaped, Diogenes with them all, riding his horse at full speed. This was the first cause of confidence for us.",
+     "note": "Constantine Doukas; Attaleiates gives this battle to Crispin's Franks and has Alyates blinded after it (Att. Civil [1]). 'Our general', 'us': Psellos writes as a member of Michael's party."
+    },
+    {
+     "n": 2,
+     "pg": "255.13–255.28",
+     "titel": "XXXIV. The Armenian who took him into Cilicia",
+     "orig": "XXXIV. Ἐντεῦθεν ὁ Διογένης ἀρχὴν λαμβάνει τῆς καταλύσεως, καὶ σὺν ὀλίγοις τοῖς περὶ αὐτὸν εἴς τι κατακλείεται πολισμάτιον· ἑαλώκει δὲ ἂν αὐτίκα, εἰ μή τι ἄλλο συνεμπεπτώκει· ἀνὴρ γάρ τις ἐξ Ἀρμενίων ἔχων τὸ γένος, τὴν γνώμην βαθύς, δυσμενὴς ἡμῖν τῆς προαιρέσεως, ἀρχήν τινα παρὰ τούτου τῶν μεγίστων λαβών, ὁπηνίκα βασιλεὺς ἦν, χάριτας αὐτῷ ἐπὶ τοῦ δυστυχήματος ἀνθομολογούμενος, στρατιώτας συχνοὺς ἐπαγόμενος πρόσεισι τούτῳ, καὶ θαρρεῖν παρακελευσάμενος καὶ τὰ μέγιστα ὑποσχόμενος, ἀντικαθίστασθαι μὲν τοῖς ἡμετέροις στρατεύμασιν οὐκ ἐᾷ, εἰς δὲ τὴν τῶν Κιλίκων χώραν ἀπαγαγὼν καὶ εἰς τὴν ἐξ ἐφόδου φυλακὴν τὰ τέμπη τῆς Κιλικίας αὐτοῦ προβαλλόμενος, στρατόν τε ἑαυτῷ ἐξαρτύει καὶ χρήματα δίδωσι, καὶ εἰς βασιλέως σχῆμα καθίστησι, καὶ ὁπλίζει πρότερον, εἶτα ἐν καιρῷ μάχεσθαι πρὸς τὸ ἡμέτερον στράτευμα ὁ δεινὸς οὗτος ἀνὴρ ταμιεύεται.",
+     "en": "XXXIV. From then on Diogenes began to fall, and shut himself up with the few around him in a small town. He would have been taken at once had not something else happened. A man of Armenian descent, deep in judgement and hostile to us in his leanings, who had received one of the greatest commands from him when he was emperor, repaid his gratitude to him in his misfortune: bringing many soldiers he came to him, told him to take heart and promised him the greatest things. He did not let him face our armies, but took him into Cilicia, set the passes of Cilicia before him as a guard against attack, equipped an army for him and gave him money, restored him to the style of an emperor, armed him first, and then, this clever man, bided his time to fight our army at the right moment.",
+     "note": "Khatchatour of Antioch (Att. Civil [2]), named in the next chapters. 'Hostile to us in his leanings': Psellos marks him as an Armenian and a non-Chalcedonian, the language in which the capital distrusted the Armenians (Matt. Battle [1])."
+    },
+    {
+     "n": 3,
+     "pg": "255.29–256.5",
+     "titel": "XXXV. Peace offered; a proud answer",
+     "orig": "XXXV. Ἐν βουλεύμασιν οὖν αὖθις τὰ καθ᾽ ἡμᾶς καὶ ὅ τι πρακτέον εἴη ἐδοκιμάζετο· τοῖς μὲν οὖν εἰρήνην ἐδόκει πρὸς τὸν Διογένην ποιήσασθαι, καὶ μέρους τινὸς παραχωρήσαντας τῆς ἀρχῆς μηδέν τι πλέον ποιεῖν, τοῖς δὲ πολεμητέα ἐδέδοκτο, καὶ μηδὲ μίαν αὐτῷ ἀφορμὴν τῆς ἔπειτα θρασύτητος παρασχεῖν. Τὰ μὲν οὖν τῆς εἰρήνης πρῶτον ἐπράττετο, καὶ γράμματα παρὰ τοῦ βασιλέως πρὸς ἐκεῖνον ἐξαπεστέλλοντο κοινοπαθῆ καὶ φιλάνθρωπα· ὁ δὲ ὥσπερ ὑβριοπάθει, ὅτι συμπάθειά τις αὐτῷ ἀπηγγέλλετο μηδὲν ὅλως τῶν κακῶν πλημμελήσαντι, εἰς αἰτήσεις δὲ καθιστάμενος, οὔτε τῆς βασιλείας ἀπείχετο οὔτε μετριωτέραν ἐζήτει μερίδα τοῦ κράτους, ἀλλ᾽ αὐθαδέστερος ἦν ἐν ταῖς ἀποκρίσεσι μᾶλλον ἢ τοῖς βουλεύμασι.",
+     "en": "XXXV. So once again our affairs were in counsel, and what should be done was weighed. Some thought peace should be made with Diogenes, granting him some part of the government and doing nothing more; others decided on war, and that he should be given no opening for further boldness. The business of peace was pursued first, and letters of fellow-feeling and kindness were sent to him from the emperor. But he took it almost as an insult that sympathy was offered to him, as if he had done nothing wrong at all; and when it came to demands, he neither kept away from the throne nor asked for a more modest share of power, but was more arrogant in his answers than in his plans.",
+     "note": "Ibn al-Athīr has the reverse: Romanos offering Michael the choice of keeping the treaty or not (IA Battle [10])."
+    },
+    {
+     "n": 4,
+     "pg": "256.6–256.22",
+     "titel": "XXXVI. Andronikos sent through the Cilician passes",
+     "orig": "XXXVI. Τούτου μὲν δὴ τοῦ μέρους ἀφέμενος, ἐξ ἀνάγκης ὁ βασιλεὺς τῷ Ἀνδρονίκῳ δοὺς τὰ στρατεύματα, ὁ πρεσβύτερος δὲ οὗτος τῶν υἱῶν τοῦ Καίσαρος ἦν, ἀνὴρ καὶ τὴν ἡλικίαν ἀξιοθέατος καὶ τὴν γνώμην ἐλεύθερος, τήν τε ψυχὴν εὐμενὴς καὶ ἐπιεικέστατος, ξυμπάσης τε τῆς ἕω τὴν ἀρχὴν πιστεύσας ἐπὶ τὸν Διογένην ἐκπέμπει· ὁ δὲ πρῶτα μὲν εἰς μίαν καὶ τὴν αὐτὴν γνώμην ἁρμόζεται τὸ στρατόπεδον, ἑκάστῳ ἐπιεικῶς προσφερόμενος καὶ πρὸς πάντας οἰκείως μεθαρμοζόμενος, δεύτερον δὲ σκοπὸν τίθεται λαθεῖν τὸν Διογένην ὁπότε τοῖς τῆς Κιλικίας στενοῖς προσπελάσειεν, καὶ τοὺς ἑλιγμοὺς τῶν ἐκεῖσε ὀρῶν καὶ πᾶσαν τὴν δύσβατον ἀτραπὸν ἠρέμα διεξελθεῖν, καὶ ἀθρόον αὐτοὺς τοῖς πολεμίοις φανήσασθαι. Οἱ μὲν οὖν ἐν τούτοις ἦσαν, καὶ κατὰ τὰ βεβουλευμένα τὴν στενὴν καὶ παράκνημον διαβεβήκασιν ἀτραπόν· ὁ δὲ βασιλεὺς ἐν δεινῷ ποιεῖται εἰ ἁλοίη τῷ ἡμεδαπῷ στρατεύματι ὁ πολέμιος, καὶ ἢ πέσοι μαχόμενος, ἢ ζωγρηθεὶς μέρος τι ἀκρωτηριασθείη τοῦ σώματος.",
+     "en": "XXXVI. Giving up this course, the emperor of necessity gave the armies to Andronikos (he was the elder of the Caesar's sons, a man remarkable to look at for his stature, free in his judgement, kindly and most reasonable in soul), entrusted him with command of the whole East and sent him against Diogenes. First he brought the army to one and the same mind, treating each man fairly and adapting himself to all as a friend; second, he set himself the aim of escaping Diogenes' notice as he approached the passes of Cilicia, of getting quietly through the windings of the mountains there and the whole difficult path, and of appearing suddenly before the enemy. So they were about this, and as planned they crossed the narrow path along the mountainside. But the emperor was distressed at the thought that the enemy might be taken by our army and either fall fighting or be captured and have some part of his body mutilated.",
+     "note": "The 'rearguard commander' of Manzikert (Att. Battle [12]) is here the kindly, reasonable general of the East. Attaleiates says the passes were left unguarded (Att. Civil [4]). Printed φανήσασθαι, translated as if future."
+    },
+    {
+     "n": 5,
+     "pg": "256.23–256.30",
+     "titel": "XXXVII. The emperor weeps; letters by priests",
+     "orig": "XXXVII. Ἐγὼ γοῦν αὐτὸν ἐθεασάμην περὶ τούτου πολλάκις δακρύοντα, καὶ κινδύνου ἰδίου ὠνούμενον τὸ μὴ ἐκεῖνον παθεῖν· ἦν γὰρ αὐτῷ φίλα, ὡς ἔλεγεν, πρὸς τὸν ἄνθρωπον καὶ συνθῆκαί τινες αἷς ἐδεδίει μὴ τἀναντία δράσειεν. Ἀνδράσι γοῦν ἱερατικοῖς καὶ εἰρηνικοῖς τὴν ψυχὴν τοὺς περὶ τῆς φιλίας λόγους πιστεύει, καὶ γράμματα πρὸς τὸν πολέμιον ἐγχειρίζει πᾶν μὲν ὁτιοῦν ὑπισχνούμενα, πείθοντα δὲ πρὸς ὑπακοὴν καὶ ἀδαμαντίνην ψυχήν.",
+     "en": "XXXVII. I myself often saw him weeping about this, and ready to buy at his own risk that the other should not suffer; for there was friendship, he said, between him and the man, and certain agreements he feared to break. So he entrusted the words of friendship to men of priestly and peaceable soul, and gave them letters for the enemy promising anything whatever, and persuading him to submit, even a soul of adamant.",
+     "note": "The 'men of priestly soul' are the bishops who guaranteed the terms at Adana (Att. Blind. [4]). Psellos presents their mission as Michael's own mercy."
+    },
+    {
+     "n": 6,
+     "pg": "256.31–257.3",
+     "titel": "XXXVIII. Khatchatour's battle line",
+     "orig": "XXXVIII. Ἀλλ᾽ ὁ μέν, πρὶν ἢ τούτους καταλαβεῖν, ἐπῆρτο πρὸς πόλεμον, ἑαυτὸν μὲν ἔνδον τοῦ φρουρίου συνέχων, ὃ προὔλαβε κατασχὼν σὺν ὀλίγοις τισὶ τῶν περὶ αὐτόν, τῷ δὲ Χατατούρῃ Ἀρμενίῳ, ὃν φθάσας ὁ λόγος ἐγνώρισε, πάντα σχεδὸν τὸν στρατὸν ὑποτάξας καὶ σὺν ἀγαθῇ ὡς ἐδόκει τύχῃ εἰς τὸν πόλεμον ἀποστείλας· τοὺς πεζοὺς οὖν οὗτος καὶ τοὺς ἱππεῖς ἐπαγόμενος, καὶ τοὺς ἐπικαίρους τῶν τόπων προκαταλαβών, κατὰ φάλαγγα ἵστησιν, ὧν οἱ πλείους καὶ τὰς ψυχὰς προθυμότατοι καὶ τὰ σώματα ἐρρωμενέστατοι.",
+     "en": "XXXVIII. But he, before they could reach him, had roused himself for war: he kept himself inside the fortress he had seized in advance, with a few of those around him, and put almost the whole army under Khatatoures the Armenian, whom my account has already made known, and sent it into battle with good fortune, as it seemed. He led out the infantry and the cavalry, seized the key places beforehand and drew them up in a battle line, most of them very eager in spirit and very strong in body."
+    },
+    {
+     "n": 7,
+     "pg": "257.4–257.20",
+     "titel": "XXXIX. Crispin's charge",
+     "orig": "XXXIX. Ἀντικαθίσταται δὲ συντεταγμένος πρὸς τοῦτον καὶ ὁ Ἀνδρόνικος· καὶ πρὶν ἢ τὸν συνασπισμὸν γενέσθαι καὶ εἰς χεῖρας ἀλλήλοις ἰέναι, ὁ Φράγγος Κρισπῖνος, γράφω δὲ ταῦτα καθ᾽ ἣν ἐκεῖνος ἐτεθνήκει ἡμέραν· οὗτος οὖν ὁ Κρισπῖνος πολέμιος Ῥωμαίοις τὰ πρῶτα φανείς, ἔπειτα τοὺς τρόπους μεταβαλών, τοσοῦτον εἰς εὔνοιαν ὤφθη τὸ δεύτερον, ὅσον τὸ πρῶτον εἰς δυσμένειαν· εἱστήκει δὲ σύν γε τῷ Ἀνδρονίκῳ, τὰ μὲν ἐνθαρρύνων αὐτόν, τὰ δὲ παρ᾽ αὐτοῦ θαρρυνόμενος. Ὡς γοῦν ἑωράκει τὸ τῶν ἐναντίων στράτευμα διατεταγμένον, θαρρεῖν ἑαυτῷ παρακελευσάμενος καὶ τῷ Ἀνδρονίκῳ τὴν ἐπὶ τοὺς ἱππέας ἔλασιν προειπών, ἀπὸ ῥυτῆρος ἐλαύνει τὸν ἵππον τοὺς περὶ ἐπ᾽ αὐτὸν ἐπαγόμενος, καὶ εἰς μέσους ἐμπίπτει τοὺς πολεμίους, καὶ τὴν φάλαγγα τούτων διατεμών, ὡς εἶδε βραχύ τι μὲν ἀντιστάντας καὶ ὑποδεξαμένους τοῦτον, εἶτα μεταβαλόντας τὰ νῶτα, σὺν ὀλίγοις τῶν μεθ᾽ ἑαυτοῦ κατόπιν τῶν φυγόντων ἐξήλασεν· ἔνθα πολλοὺς μὲν ἀνεῖλε, πλείους δὲ ζῶντας ἐζώγρησε.",
+     "en": "XXXIX. Andronikos too took his stand against him in battle order. And before the shields met and they came to blows, the Frank Crispin (I am writing this on the day he died): this Crispin, who at first appeared as an enemy of the Romans and then changed his ways, was seen to be as loyal the second time as he had been hostile the first. He stood with Andronikos, now encouraging him, now encouraged by him. When he saw the enemy army drawn up, he told himself to take heart, told Andronikos beforehand of the charge against the horsemen, rode at full gallop with his men behind him, fell into the middle of the enemy and cut through their line; and when he saw them resist a little and receive him, then turn their backs, he drove on after the fugitives with a few of his men. There he killed many, and took more alive.",
+     "note": "'I am writing this on the day he died': one of the rare moments where Psellos dates his own writing. Sathas prints τοὺς περὶ ἐπ᾽ αὐτόν, which does not construe; the sense, 'his men', is rendered. Crispin is the Frank Romanos exiled (Att. Civil [1])."
+    },
+    {
+     "n": 8,
+     "pg": "257.21–257.35",
+     "titel": "XL. Khatchatour naked in a thicket",
+     "orig": "XL. Καὶ ἡ μὲν τοῦ Διογένους φάλαγξ διελύθησάν τε καὶ διεσπάρησαν, τροπαιοφόρος δὲ ὁ Ἀνδρόνικος σύν γε τῷ Κρισπίνῳ ἐπὶ τὴν ἀποτεταγμένην αὐτῷ σκηνὴν ἀναζεύγνυσιν· εἶτα δή τις ἱππεὺς τῶν πολεμίων τινὰ φέρων πρὸς τὸν στρατηγὸν ἐπανέρχεται· ἦν δὲ ὁ Χατατούρης Ἀρμένιος· οὗτος γὰρ ἐν τῷ φεύγειν τοῦ ἵππου διωλισθηκὼς κατά τινα τάφρον, ὡς ἔλεγε, λόχμην ὑπέδυ τινά· ὡς δέ τις τῶν διωκόντων τεθέαται, ἀνελεῖν μὲν ὥρμησεν, ὡς δὲ δακρύοντα εἶδε, τὴν ἐσθῆτα ἀποδυσάμενος καὶ γυμνὸν ὑπὸ τὴν λόχμην ἀφεὶς ἄπεισιν· εἶτα δὴ ἄλλος γυμνὸν αὖθις ἰδὼν ὥρμησεν ἀνελεῖν, ὁ δέ, “ἀλλ᾽ εἴ μου φείσειας, ἔφησε, καὶ εἰς τόνδε τὸν στρατηγὸν ἀπαγάγοις (τοὔνομα προσειπών), ἐμπλήσει σοι δώρων τὴν δεξιάν.” Ὡς δὲ διϊόντα ἐγνώρισεν ὁ Ἀνδρόνικος, δεύτερον τοῦτο ποιεῖται εὐτύχημα, καὶ τὸν ἄνδρα, στρατηγῷ πρέπον γενναίῳ, ἐνδύσας τε καὶ κοσμήσας ἐν ἀδέσμῳ συνεῖχε φυλακῇ.",
+     "en": "XL. Diogenes' battle line broke up and scattered, and Andronikos, bearing the trophy, went back with Crispin to the tent set aside for him. Then one of the horsemen came back to the general bringing one of the enemy: it was Khatatoures the Armenian. In his flight he had slipped from his horse into a ditch, as he said, and crept into a thicket. When one of the pursuers saw him, he set out to kill him, but seeing him in tears he stripped off his clothes, left him naked in the thicket and went away. Then another, seeing him naked, set out to kill him again; but he said: 'If you spare me and take me to such-and-such a general' (naming him), 'he will fill your hand with gifts.' When Andronikos recognised him as he came through, he counted this a second stroke of luck, and, as befits a noble general, clothed and adorned the man and kept him in guard without chains.",
+     "note": "Attaleiates has Khatchatour fall from his horse and stand 'naked and pitiable' before the commander (Att. Civil [5]); Psellos tells how he came to be naked."
+    },
+    {
+     "n": 9,
+     "pg": "257.36–258.18",
+     "titel": "XLI. Adana opened; the black habit; Andronikos' table",
+     "orig": "XLI. Τὴν μὲν οὖν περὶ αὐτὸν χεῖρα ὁ Διογένης ἀπεγνωκώς, Περσικὴν συμμαχίαν ἤλπιζε πρὸς αὐτὸν αὐτίκα ἀφίξεσθαι· ἔνθεν τοι καὶ τὸν περὶ αὐτὸν λαὸν ἐπερρώννυε καὶ ἐλπίδας ἑτοίμους ὑπέτεινεν· ἀλλ᾽ οἷς ἐθάρρει καὶ οἷς τὰ τοῦ φρουρίου κλεῖθρα ἐπίστευεν ἐκείνοις πρῶτον ἁλώσιμος γίνεται· οὗτοι γὰρ τῷ ἡμετέρῳ συνθέμενοι στρατηγῷ καὶ πίστεις τοῦ μὴ παθεῖν εἰληφότες, τὰς εἰσόδους ἀναπετάσαντες, πάροδον τοῖς ἡμετέροις δεδώκασι, καὶ ἐπ᾽ αὐτὸν τὸν οἶκον οὗ ὁ Διογένης ἐσκήνου ἀπάγουσιν· ὁ δὲ εἱστήκει δεινὸν καὶ ἐλεεινὸν θέαμα, τὰς ἐλπίδας ἀπεγνωκώς, καὶ τὰς χεῖρας δεσμήσας ὥσπερ ἀνδράποδον, καὶ ἐπὶ τοῖς κατασχοῦσιν ὅ τι δρᾶν βούλοιντο θέμενος, εἰ δέον μελανειμονῆσαι εὐθύς, καὶ τὸ κάλυμμα τῆς κεφαλῆς ἀφελόμενος ἐδίδου τῷ βουλομένῳ τὰς τρίχας τεμεῖν· σχεδιάσαντες δὲ οἱ παρατυχόντες αὐτῷ τὴν τοῦ βίου μετάθεσιν, ἐξάγουσι τῷ φρουρίῳ καὶ πρὸς τὸν Ἀνδρόνικον μεθ᾽ ὅσης ἂν εἴποι τις τῆς περιχαρίας ἀπάγουσιν· ὁ δὲ οὐδὲν πρὸς τοῦτον σοβαρευσάμενος, ἀλλὰ καὶ τῆς τύχης οἰκτείρας, καὶ δεξιὰν ἐμβάλλει καὶ εἰς τὴν ἑαυτοῦ ἐπάγει σκηνήν, καὶ τραπέζης λαμπρᾶς κοινωνεῖ.",
+     "en": "XLI. Diogenes, giving up hope of the forces around him, expected Persian help to come to him at once; and so he strengthened the people with him and held out ready hopes to them. But those he trusted, and to whom he entrusted the bolts of the fortress, were the first to betray him: they came to terms with our general, received pledges that they would not suffer, opened the entrances, gave our men passage, and led them to the very house where Diogenes was staying. He stood there, a terrible and pitiable sight, having given up hope; he bound his hands like a slave and left it to his captors to do what they wished; if he had to put on black at once, he took the covering from his head and offered his hair to whoever would cut it. Those who happened to be there improvised his change of life, brought him out of the fortress and took him to Andronikos with all the joy one could describe. He, not at all arrogant towards him, but pitying his fortune, gave him his right hand, took him into his own tent, and shared a splendid table with him.",
+     "note": "The 'Persian help' is the troops of the sultan's treaty (Att. Civil [2]). In Attaleiates Adana is starved into terms and Romanos comes out in black of his own agreement (Att. Civil [5], Att. Blind. [1]); in Psellos the garrison sells him. Andronikos' table answers the sultan's (Att. Capt. [3]): two victors, two dinners."
+    },
+    {
+     "n": 10,
+     "pg": "258.19–258.30",
+     "titel": "XLII. A deed that should not have happened, and had to",
+     "orig": "XLII. Τὸ μὲν οὖν μέχρι τοῦδε εὔδρομος ἡμῖν ὁ λόγος, καὶ διὰ λείας φέρων καὶ βασιλικῆς τῆς ὁδοῦ, ταῦτα δὴ τὰ θεολογικὰ ῥήματα· τὸ δ᾽ ἐντεῦθεν ὀκνεῖ περαιτέρω χωρεῖν καὶ διηγήσασθαι πρᾶξιν, ἣν οὐκ ἔδει μὲν γενέσθαι, ἵνα δὴ παρὰ βραχὺ ταὐτολογήσας ἐρῶ, ἔδει δὴ γενέσθαι παντάπασι, τὸ μὲν διὰ τὴν εὐσέβειαν καὶ τὴν πρὸς τὸ δεινὸν εὐλάβειαν, τὸ δὲ διὰ τὴν τῶν πραγμάτων περίστασιν καὶ τὴν τοῦ καιροῦ περιπέτειαν· οἱ γὰρ περὶ τὸν βασιλέα εὐνοϊκώτεροι δείσαντες περὶ τῷ Διογένει, μὴ διαμηχανήσαιτό τι, καὶ πάλιν ἀφορμὴ πραγμάτων τῷ βασιλεῖ γένοιτο, τὸ σκέμμα τούτῳ συγκαλυψάμενοι, ἐντέλλονταί τε διὰ γραμμάτων <τῷ> ἐπὶ τοῦ καιροῦ δυναστεύοντι ἐκκόψαι τούτῳ τοὺς ὀφθαλμούς.",
+     "en": "XLII. Up to this point my account has run easily, carried along a smooth and royal road, to use those theological words. From here on it hesitates to go further and tell of a deed which should not have happened (to repeat myself a little) and yet had by all means to happen: should not, for piety's sake and from reverence before a terrible thing; had to, because of the circumstances of affairs and the reversals of the moment. For the more devoted of those around the emperor, fearing that Diogenes might contrive something and again give the emperor trouble, kept the plan from him and ordered by letter the man in power at the moment to cut out his eyes.",
+     "note": "The same hinge as Attaleiates' (Att. Capt. [8]): the historian hesitates before the harder story. 'Royal road' is a phrase of the Church Fathers. Sathas supplies τῷ. 'The more devoted' are not named: the Caesar's party, who held power in the palace."
+    },
+    {
+     "n": 11,
+     "pg": "258.31–259.8",
+     "titel": "XLIII. The emperor did not know; death on Prote",
+     "orig": "XLIII. Ὃ δὴ καὶ γενόμενον ἠγνοεῖτο τῷ βασιλεῖ· καὶ οὐ θωπευτικὴν ποιοῦμαι τὴν ἱστορίαν, ἴστω θεός, ἀλλ᾽ ἀληθεστάτην παντάπασιν, ὅθεν καὶ πλείω ἀφεῖκεν ἐπὶ τῷ πράγματι γνοὺς ὕστερον δάκρυα ἢ ὅσα ἐκεῖνος πρὸ τοῦ παθεῖν κατήνεγκέ τε καὶ ἀπωδύρετο· ἀλλ᾽ οὐδ᾽ ὅτε ἠγγέλθη τῷ βασιλεῖ τοῦ Διογένους ἡ ἅλωσις, ἢ σκίρτημά τι ἐνεφάνισεν, ἢ ἄλλο τι χαρμονῆς εἶδος τοῖς περὶ αὐτὸν ἐπεδείξατο, ἀλλ᾽ εἰ μὴ τὰ παρὰ τῶν πολλῶν εὐλαβεῖτο ὀνείδη, ἐσκυθρώπαζεν ἂν μέχρι πολλοῦ. Ὁ μὲν οὖν καὶ τοὺς ὀφθαλμοὺς ἐκκοπεὶς εἰς ὃ ἱδρύσατο φροντιστήριον ἐν τῇ νήσῳ ᾗ Πρώτη ὄνομα ἐπανάγεται, ἔνθα βραχύ τι ἐπιβιοὺς τελευτᾷ οὔπω ἔτη <δύο> τὴν βασίλειον ἀρχὴν κατασχών, κρατεῖ δὲ καθαρῶς τῆς ἀρχῆς ὁ Μιχαήλ.",
+     "en": "XLIII. And when it was done, the emperor did not know of it. I am not writing a flattering history, God knows, but the whole truth: that is why, when he learned of the deed afterwards, he shed more tears over it than the other had wept and lamented before he suffered. Nor, when Diogenes' capture was announced to the emperor, did he show any leap of joy or any other kind of gladness to those around him; had he not feared the reproaches of the many, he would have gone on scowling for a long time. So the man whose eyes had been cut out was brought back to the monastery he had founded on the island called Prote, and there, living on a little, he died, having held the imperial power not quite two years. And Michael ruled the empire cleanly.",
+     "note": "Attaleiates: the order came 'from the emperor', and he addresses Michael directly: 'What do you say, emperor?' (Att. Blind. [3]). Psellos swears that Michael did not know. Sathas supplies δύο. 'Not quite two years' counts from the coronation of January 1068 to the fall of 1071, when Michael 'ruled cleanly': the palace ends Romanos' reign at the coup, not at his death. The Compare page sets the two historians side by side."
+    }
+   ]
+  }
+ ]
+}
