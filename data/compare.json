@@ -1,5 +1,5 @@
 {
- "lede": "The same moments of 1068–1072 in the eyewitness Attaleiates, the palace historian Psellos, the Seljuk-court historian Ibn al-Athīr and the Armenian chronicler Matthew of Edessa. Each column shows the English; the reader carries the originals.",
+ "lede": "The same moments of 1068–1072 in the eyewitness Attaleiates, the palace historian Psellos, the family historian Bryennios, the Seljuk-court historian Ibn al-Athīr and the Armenian chronicler Matthew of Edessa. Each column shows the English; the reader carries the originals.",
  "pairs": [
   {
    "id": "meeting",
@@ -65,7 +65,7 @@
    "id": "division",
    "titel": "The divided army",
    "frage": "A general's plan or a traitor's plot?",
-   "note": "Attaleiates defends the division at Theodosiopolis as a reasonable plan overturned by Providence, and says the blame others put on the emperor comes from ignorance. Matthew makes it the work of treacherous counsellors who wrote to the sultan when it was done. For Psellos in the palace it is simply bad generalship: he 'drew up against them with the smaller part'.",
+   "note": "Attaleiates defends the division at Theodosiopolis as a reasonable plan overturned by Providence, and says the blame others put on the emperor comes from ignorance. Matthew makes it the work of treacherous counsellors who wrote to the sultan when it was done. For Psellos in the palace it is simply bad generalship: he 'drew up against them with the smaller part'. Bryennios gives another reason: a false report that the sultan was fleeing to Babylon, and a Trachaneiotes sent away against his own advice.",
    "voices": [
     {
      "text": "attaleiates",
@@ -87,6 +87,13 @@
      "n": [
       11
      ]
+    },
+    {
+     "text": "bryennios",
+     "sec": "campaign",
+     "n": [
+      3
+     ]
     }
    ]
   },
@@ -94,7 +101,7 @@
    "id": "treason",
    "titel": "Who broke the army?",
    "frage": "The Uzes, the Doukas reserve, or the officers who went home?",
-   "note": "Attaleiates swore the Uzes in himself and says none of them went over in the battle; he reports 'as most people assert' that a cousin of the emperor's stepson spread the rumour of defeat. Matthew has the Uzes and Pechenegs go over in the thick of the fight, and Tarkhaniotes and the officers leave for Constantinople. Ibn al-Athīr sees one charge through the dust. The game follows Attaleiates and ties the rout of the reserve to the Doukai.",
+   "note": "Attaleiates swore the Uzes in himself and says none of them went over in the battle; he reports 'as most people assert' that a cousin of the emperor's stepson spread the rumour of defeat. Matthew has the Uzes and Pechenegs go over in the thick of the fight, and Tarkhaniotes and the officers leave for Constantinople. Ibn al-Athīr sees one charge through the dust. The game follows Attaleiates and ties the rout of the reserve to the Doukai. Bryennios, writing for Andronikos' daughter, puts him in the rear 'not at all friendly to the emperor', and then has the rearguard simply withdraw in the same sentence as the right wing breaks.",
    "voices": [
     {
      "text": "attaleiates",
@@ -117,6 +124,14 @@
      "n": [
       4,
       5
+     ]
+    },
+    {
+     "text": "bryennios",
+     "sec": "campaign",
+     "n": [
+      6,
+      7
      ]
     }
    ]
@@ -157,7 +172,7 @@
    "id": "blinding",
    "titel": "The blinding",
    "frage": "Who did it, on whose order, and after what promise?",
-   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the historian addressing the emperor: 'What do you say, emperor?'. Psellos, Michael's tutor, swears that 'the more devoted' around the emperor ordered it by letter without his knowledge, and that he wept. Matthew of Edessa has Romanos put on the monk's habit himself, and the Romans 'crucify God a second time'; Ibn al-Athīr says nothing of the blinding. Two of the Christian writers lay the deed, in different figures, on the Jews: a commonplace carried as printed and named as such.",
+   "note": "Attaleiates has the terms at Adana guaranteed by three bishops, an order from Michael VII, and the historian addressing the emperor: 'What do you say, emperor?'. Psellos, Michael's tutor, swears that 'the more devoted' around the emperor ordered it by letter without his knowledge, and that he wept. Matthew of Edessa has Romanos put on the monk's habit himself, and the Romans 'crucify God a second time'; Ibn al-Athīr says nothing of the blinding. Two of the Christian writers lay the deed, in different figures, on the Jews: a commonplace carried as printed and named as such. Bryennios has Andronikos, who took Romanos at Adana, weep and write to his father the Caesar to stop it.",
    "voices": [
     {
      "text": "attaleiates",
@@ -188,6 +203,13 @@
      "n": [
       10,
       11
+     ]
+    },
+    {
+     "text": "bryennios",
+     "sec": "civil",
+     "n": [
+      3
      ]
     }
    ]

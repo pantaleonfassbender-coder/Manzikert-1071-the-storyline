@@ -31,16 +31,17 @@
    "kurz": "Psellos: the palace's version",
    "zk": "Psell.",
    "warum": "The philosopher who tutored Michael VII, in Greek with a working translation: woken at night to meet the new emperor, sidelined by a braggart in Homeric armour, taken on the campaign of 1069, praising only the emperor's courage in the battle he did not see; then his own advice not to receive Romanos back, the Varangians' axes, the empress in a crypt with the philosopher at its mouth, the civil war from Michael's side, and the blinding the emperor 'did not know of'."
+  },
+  {
+   "id": "bryennios",
+   "datei": "bryennios",
+   "side": "byzantium",
+   "kurz": "Bryennios: the family's version",
+   "zk": "Bry.",
+   "warum": "The grandson of the general of 1071, writing for Andronikos Doukas' daughter, in Greek with a working translation: the grandfather's wise counsel and his wounds, a false report that the sultan was fleeing, the order of battle with Andronikos 'not at all friendly to the emperor' in the rear, the eunuch Taranges' ambushes, 'at once those of the rearguard withdrew too'; the coup given to the Caesar, the trial of Anna Dalassene with an icon as judge, and Andronikos weeping and protesting the blinding he could not prevent."
   }
  ],
  "planned": [
-  {
-   "id": "bryennios",
-   "side": "byzantium",
-   "kurz": "Bryennios: the family history (1071)",
-   "warum": "Written two generations later by a Bryennios married into the Komnenoi, with the Doukai as in-laws: the battle order, the rearguard of Andronikos Doukas, and a quieter version of the treason.",
-   "quelle": "Nicephori Bryennii Commentarii, ed. A. Meineke, Corpus Scriptorum Historiae Byzantinae (Bonn 1836), Book I. Greek with Latin; working English translation."
-  },
   {
    "id": "skylitzes",
    "side": "byzantium",
