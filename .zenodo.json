@@ -1,0 +1,22 @@
+{
+  "upload_type": "dataset",
+  "title": "Manzikert 1071: A Documentary Apparatus, 1068–1072",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the battle of Manzikert (26 August 1071) and the Byzantine civil war that followed it, 1068&ndash;1072. Its thesis is the eyewitness's own: the battle was lost in an evening, but the eastern frontier was lost in the civil war, when the Doukas family refused, fought and blinded the emperor the sultan had released.</p><p>Seven public-domain sources are carried in whole sections, with the original beside a working English translation (CC0): Michael Attaleiates, <em>Historia</em> (ed. Bekker, Bonn 1853, pp. 138&ndash;180), Greek set from two independent OCRs and read against every page image; Michael Psellos, <em>Chronographia</em> (ed. Sathas, 1899, pp. 245&ndash;259); Nikephoros Bryennios, <em>Hyle Historias</em> (ed. Meineke, Bonn 1836, pp. 35&ndash;55); Ibn al-Athīr, <em>al-Kāmil</em>, year 463 (ed. Tornberg, vol. X, 1864, pp. 42&ndash;46), Arabic transcribed by eye; Matthew of Edessa in Dulaurier's French (1858, pp. 159&ndash;172); Michael the Syrian in Chabot's French (1905, pp. 168&ndash;172); and, as reception, Edward Gibbon's chapter 57 in the text of the first edition (1788, vol. V, pp. 660&ndash;668), corrected where the common etext departs from it. With a timeline linked into the texts, plates from fifteenth-century manuscripts, and a Compare page setting the seven voices side by side on seven moments.</p><p>What is not carried is listed with reasons: above all Sibṭ ibn al-Jawzī, who preserves the most important Muslim account and whose only edition (Sevim, Ankara 1968) is not public domain; al-Ḥusaynī; the Armenian and Syriac originals; and, by choice, Skylitzes Continuatus, Zonaras and Aristakes. Companion game: <em>The Turned Standard</em> (https://manzikert-1071-the-game.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions, working translations and derived data CC0 1.0 &mdash; see LICENSES.md. Live site: https://manzikert-1071-the-storyline.netlify.app/</p>",
+  "license": "MIT",
+  "keywords": [
+    "Manzikert",
+    "Byzantine Empire",
+    "Seljuks",
+    "Romanos IV Diogenes",
+    "Alp Arslan",
+    "Byzantine historiography",
+    "digital humanities",
+    "medieval Anatolia"
+  ]
+}

@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "Manzikert 1071: A Documentary Apparatus, 1068–1072"
+message: "If you use this apparatus, please cite it as below — and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Manzikert-1071-the-storyline"
+url: "https://manzikert-1071-the-storyline.netlify.app/"
+abstract: >-
+  A documentary apparatus for the battle of Manzikert (26 August 1071) and
+  the Byzantine civil war that followed it, 1068-1072, built from
+  public-domain sources carried in whole sections, with the original beside
+  a working English translation: the eyewitness Michael Attaleiates
+  (Greek, Bonn 1853, pp. 138-180, set from two OCRs and read against the
+  page images); Psellos' Chronographia (Sathas 1899) and Bryennios' Hyle
+  Historias (Bonn 1836), the palace's and the Doukas family's versions;
+  Ibn al-Athir's year 463 (Arabic, Tornberg 1864, transcribed by eye);
+  Matthew of Edessa (Dulaurier's French, 1858) and Michael the Syrian
+  (Chabot's French, 1905); and Gibbon's chapter 57 (1788) as reception,
+  corrected against the first edition. With a timeline, plates, a Compare
+  page setting the seven voices side by side, and an explicit list of what
+  is not carried and why, above all Sibt ibn al-Jawzi, whose only edition
+  is not public domain. Companion game: The Turned Standard.
+keywords:
+  - Manzikert
+  - Byzantine Empire
+  - Seljuks
+  - Romanos IV Diogenes
+  - Alp Arslan
+  - Michael Attaleiates
+  - Byzantine historiography
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-09-29

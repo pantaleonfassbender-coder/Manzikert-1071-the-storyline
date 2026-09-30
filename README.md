@@ -4,7 +4,7 @@ A documentary apparatus for the battle of Manzikert (26 August 1071) and the Byz
 
 Its thesis is the eyewitness's own: the battle was lost in an evening, but the empire's eastern frontier was lost in the civil war that followed, when the Doukas family refused, fought and blinded the emperor the sultan had released.
 
-Stage 1 (September 2026) carries seven modules:
+**Stage 1 is closed (September 2026).** It carries seven modules:
 
 - **Attaleiates: the campaign and the civil war** — Michael Attaleiates, a judge who rode with the army, *Historia*, ed. Bekker (Bonn 1853), pp. 148–180: the march from Theodosiopolis, the divided army, the retaking of Manzikert, the battle, the captivity and release; then the coup in Constantinople, the civil war, the terms at Adana, the blinding and Romanos' death on Prote. Greek, set from two independent OCRs and read against the page images line by line, with a working English translation.
 

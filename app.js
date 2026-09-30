@@ -87,7 +87,7 @@ function card(m) {
 function texts() {
   view.innerHTML = `
     <span class="tag">Texts</span><h1>The corpus</h1>
-    <p class="lede">Seven modules, each readable in full. What is not carried, and why, is listed below: one gap by necessity, two by choice.</p>
+    <p class="lede">Stage 1 of the collection is closed: seven modules, each readable in full. What is not carried, and why, is listed below.</p>
     <h2>Carried</h2><div class="grid g2">${D.mods.shipped.map(card).join("")}</div>
     <h2 id="missing">Not carried</h2><div class="grid g2">${(D.mods.missing || []).map(m => `
       <div class="card planned"><div>${side(m.side)} <span class="fine">not carried</span></div>
