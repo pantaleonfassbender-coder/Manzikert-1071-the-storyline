@@ -33,5 +33,13 @@ keywords:
   - Byzantine historiography
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23050357
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23050357
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23050358
+    description: "Version 1.0.0"
 version: 1.0.0
-date-released: 2026-09-29
+date-released: 2026-09-30

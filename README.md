@@ -1,5 +1,7 @@
 # Manzikert 1071: the storyline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23050357.svg)](https://doi.org/10.5281/zenodo.23050357)
+
 A documentary apparatus for the battle of Manzikert (26 August 1071) and the Byzantine civil war that followed it, 1068–1072: public-domain sources with the original beside the English, a timeline linked into the texts, and plates from the manuscripts that turned the scene into a legend.
 
 Its thesis is the eyewitness's own: the battle was lost in an evening, but the empire's eastern frontier was lost in the civil war that followed, when the Doukas family refused, fought and blinded the emperor the sultan had released.
@@ -36,5 +38,9 @@ The texts are kept in `tools/attaleiates_text.py`, `tools/ibnalathir_text.py`, `
 ## Running locally
 
 Any static server, e.g. `python -m http.server 8135`.
+
+## Citation
+
+Fassbender, Pantaleon. *Manzikert 1071: A Documentary Apparatus, 1068–1072.* 2026. https://doi.org/10.5281/zenodo.23050357 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23050358). Please also cite the printed source of any passage you quote.
 
 Licences: see `LICENSES.md`.
