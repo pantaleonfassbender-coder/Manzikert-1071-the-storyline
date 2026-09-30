@@ -1,7 +1,7 @@
-"""Build data/attaleiates.json: Michael Attaleiates on the campaign of 1071 and the civil war of 1071-72.
+"""Build data/attaleiates.json: Michael Attaleiates on 1070, the campaign of 1071 and the civil war of 1071-72.
 
 Source: Michaelis Attaliotae Historia, ed. Immanuel Bekker, Corpus Scriptorum
-Historiae Byzantinae (Bonn: Weber, 1853), pp. 148-180. Internet Archive
+Historiae Byzantinae (Bonn: Weber, 1853), pp. 138-180. Internet Archive
 michaelisattali01bekkgoog (Oxford copy, digitised by Google): printed page
 n = leaf n+20. Public domain.
 
@@ -20,8 +20,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from attaleiates_text import SECTIONS as _CAMPAIGN  # noqa: E402
 from attaleiates_civil import SECTIONS_CIVIL  # noqa: E402
+from attaleiates_prelude import SECTIONS_PRE  # noqa: E402
 
-SECTIONS = _CAMPAIGN + SECTIONS_CIVIL
+SECTIONS = SECTIONS_PRE + _CAMPAIGN + SECTIONS_CIVIL
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "attaleiates.json"
 
@@ -37,12 +38,12 @@ def build():
             units.append(unit)
         sections.append({"id": s["id"], "zk": s["zk"], "titel": s["titel"], "blurb": s["blurb"], "units": units})
     data = {
-        "titel": "Attaleiates: the campaign and the civil war",
+        "titel": "Attaleiates: from 1070 to the blinding",
         "autor": "Michael Attaleiates (c. 1022–c. 1080), judge and member of the senate, who rode with the army in 1071; Historia, written c. 1079–80 for Nikephoros III Botaneiates",
-        "jahr": "1071–1072, written c. 1080",
+        "jahr": "1070–1072, written c. 1080",
         "orig_sprache": "grc",
         "pg_label": "Bonn",
-        "quelle": "Michaelis Attaliotae Historia, ed. Immanuel Bekker, Corpus Scriptorum Historiae Byzantinae (Bonn: Weber, 1853), pp. 148–180, Greek with Bekker's Latin translation. Internet Archive, Oxford copy digitised by Google (michaelisattali01bekkgoog; printed page n = leaf n+20), checked against a second scan (michaelisattali00presgoog). Public domain.",
+        "quelle": "Michaelis Attaliotae Historia, ed. Immanuel Bekker, Corpus Scriptorum Historiae Byzantinae (Bonn: Weber, 1853), pp. 138–180, Greek with Bekker's Latin translation. Internet Archive, Oxford copy digitised by Google (michaelisattali01bekkgoog; printed page n = leaf n+20), checked against a second scan (michaelisattali00presgoog). Public domain.",
         "hinweis": "The Greek is Bekker's text, set from two independent OCRs and corrected line by line against the page images; the printer's curly theta is set as θ, line-end hyphenations are joined, and the few misprints corrected are named in the notes. Bekker's apparatus is not carried, except where a note gives it. Each unit is cited by section and number, e.g. Att. Battle [13]; its Bonn page and line range is shown beside it. The English is this site's working translation, close to the Greek and dedicated to the public domain (CC0); it is an aid to reading, not a critical translation. Attaleiates wrote for Nikephoros III, who rose against the Doukai; his sympathy for Romanos and his silence about names are part of the evidence.",
         "sections": sections,
     }

@@ -4,9 +4,9 @@
    "id": "attaleiates",
    "datei": "attaleiates",
    "side": "byzantium",
-   "kurz": "Attaleiates: the campaign and the civil war (1071–1072)",
+   "kurz": "Attaleiates: from 1070 to the blinding",
    "zk": "Att.",
-   "warum": "The only eyewitness account from either side, in Greek with a working translation. The campaign: the divided army, the omens a judge in the emperor's tent noted down, the night of arrows, the peace refused, the turned standard and the rumour spread by 'a cousin of the emperor's stepson', the emperor taken on foot, eight days at the sultan's table. Then what the historian calls the harder story: the coup in Constantinople, the civil war, Alyates and Khatchatour, the terms at Adana, the order from Michael VII, the blinding, and death on Prote."
+   "warum": "The only eyewitness account from either side, in Greek with a working translation, from the year before the battle to the death of Romanos: Manuel Komnenos beaten, Chonai sacked, the Turkish commander who came over; the omens of the departure (a dark dove, a fallen tent at 'the pitiful city', a fire, the dead on the road); the divided army, the night of arrows, the peace refused, the turned standard, the emperor taken, eight days at the sultan's table; then the coup, the civil war, the terms at Adana, the order from Michael VII, the blinding, and death on Prote."
   },
   {
    "id": "ibnalathir",
@@ -26,13 +26,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "attaleiates0",
-   "side": "byzantium",
-   "kurz": "Attaleiates: the omens of the march (1071)",
-   "warum": "The departure from Constantinople in March 1071: the imperial tent that collapses at Helenopolis ('the pitiful city'), the fire that burns the emperor's horses, the quarrel with the German guard. The first half of the historian's case that the defeat was foretold.",
-   "quelle": "Attaleiates, Historia, ed. Bekker (Bonn 1853), pp. 142–148."
-  },
   {
    "id": "psellos",
    "side": "byzantium",
